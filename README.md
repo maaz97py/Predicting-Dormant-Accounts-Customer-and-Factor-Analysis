@@ -14,3 +14,5 @@ To put it simply the cost of reviving existing customers is lower than acquiring
 
 ## Data Collection.
 We collected data throuh online surveys. there are total 37 features with 1092 observations.
+
+## Exploratory Data Aalysis!
