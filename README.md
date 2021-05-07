@@ -23,3 +23,8 @@ We collected data throuh online surveys. there are total 37 features with 1092 o
 * Heatmap
 ![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images3/image.png)
 * all the values less than .5 are not related
+
+## Feature Engineering
+* Dropped Features based on Hypothesis Testing(Recursive Feature Elimination and Anova Test)
+* Selected features are:
+Age,Gender,Education,Occupation,Account Type,Having Min Balance,Multiple Accounts,Active Loan,Internet/Mobile Banking,Credit Card,Whether defaulted Loan,Customer Service Satisfaction,Transaction done in 24 month,Opening Balance,Current Balance,Distance from Bank,Quarterly Activity Rate(no of transactions in 3 month),Current Status of your accounts [Active, Dormant, Inactive] - Output Variable .
