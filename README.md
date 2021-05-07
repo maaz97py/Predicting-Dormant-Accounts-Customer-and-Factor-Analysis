@@ -17,3 +17,12 @@ risk of fraud and money laundering as the account is left unattended. To put it 
 * We collected primary data through online surveys.
 * there are total 37 features in our data.
 * We collected total of 1092 observations.
+
+## Exploratory Data Analysis!
+* our output variable is 'Current_satus'.
+* it is a caegorical variabe with three categories 'active', 'inactive', 'Dormant'.
+* Here are some of the visualizations involving our output variable and other independent variables.
+![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images2/image.png)
+* Heatmap
+![] (https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/raw/main/images3/image.png)
+* all the values less than .5 are not related
