@@ -38,4 +38,5 @@ Age,Gender,Education,Occupation,Account Type,Having Min Balance,Multiple Account
 
 ## Deployment 
 * We did our model deployment using Flask API.
-* ![]()
+* ![](![image](https://user-images.githubusercontent.com/69073502/117413310-71a89a80-af33-11eb-8267-eb56f7ab76ba.png)
+
