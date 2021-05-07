@@ -1,0 +1,28 @@
+Column Names to be used in the front end:
+
+These names should match with the input that goes into model.pkl file
+
+Numerical Features:
+'Age'
+'Opening balance'
+'Current balance'
+'Dist of residence from the bank'
+'Quarterly activity rate'
+'Months since last transaction'
+
+Categorical Features:
+List with drop down options:
+'Gender' - [Male, Female, Transgender]
+'Education' - [10th,12th,Graduate,Post Graduate,Doctrate]
+'Occupation' - [Salaried,Student,Other,Business, Not working]
+'Account type' -[Savings, Salaried, Current, Senior Citizen Account,No Frill Account,Pension,Other]
+'Have minimum balance?' - [Yes, No]
+'Have multiple accounts?' - [Yes,No]
+'Own an active loan?' - [Yes,No]
+'Use internet or mobile banking?' - [Yes,No]
+'Has an active credit Card?' - [Yes,No]
+'Ever defaulted on a loan?' - [Yes,No]
+'Satisfied with bank service?' - [Yes, No, Need Improvement]
+'Any transaction in the past 24 months' - [Yes,No]
+
+

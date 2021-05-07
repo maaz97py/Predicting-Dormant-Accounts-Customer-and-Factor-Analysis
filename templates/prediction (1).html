@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Dormant Account Prediction
+{% endblock %}
+
+{% block content %}
+	<div class = "table font-weight-bold text-white", align = "center">
+		<h4>Account Prediction is:</h4>
+		
+		<h5>
+			<table border = 1>
+				{% if prediction == 0 %}	
+			    	<td style = "color: white", bgcolor = "Green"> Active </td>
+		    	{% elif prediction == 2 %}	
+			    	<td style = "color: white", bgcolor = "Orange"> InActive </td>
+			    {% else %}
+			    	<td style = "color: white", bgcolor = "Red"> Dormant </td>
+			    {% endif %}
+			</table>  
+		</h5>
+		
+	</div>
+{% endblock %}

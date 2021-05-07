@@ -1,0 +1,1092 @@
+,Current Status,Gender,Education,Occupation,Account type,Have minimum balance?,Have multiple accounts?,Own an active loan?,Use internet or mobile banking?,Has an active credit Card?,Ever defaulted on a loan?,Satisfied with bank service?,Any transaction in the past 24 months,Age,Opening balance,Current balance,Dist of residence from the bank,Quarterly activity rate,Months since last transaction
+0,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,No,Yes,23,2000,2000.0,23.7912,2.0,3.0
+1,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,40,5947,15000.0,10.0,30.0,2.0
+2,Dormant,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,No,No,Yes,No,No,32,500,623.0,23.7912,7.0,5.4478
+3,Active,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,23,0,1000.0,20.0,5.0,3.0
+4,Active,Female,Doctrate,Business,Savings,No,Yes,Yes,Yes,Yes,No,Yes,Yes,40,3000,1000.0,1.0,5.0,5.4478
+5,Inactive,Female,Graduate,Other,Senior Citizen Account,Yes,Yes,No,No,No,No,No,Yes,54,500,10000.0,4.0,1.0,5.4478
+6,Dormant,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,No,35,3000,3000.0,5.0,1.0,5.4478
+7,Dormant,Female,12th,Not working,Savings,Yes,No,No,No,No,No,No,No,54,500,2000.0,4.0,1.0,5.4478
+8,Dormant,Male,Graduate,Other,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,35,1000,1000.0,2.0,1.0,5.4478
+9,Inactive,Male,12th,Salaried,Pension,Yes,Yes,No,No,No,No,Need Improvement,Yes,54,500,27239.0,23.7912,2.0,5.4478
+10,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,23,0,4000.0,20.0,12.0,1.0
+11,Dormant,Female,10th,Other,No Frill ACcount,No,Yes,Yes,No,No,Yes,Yes,No,32,5000,0.0,23.7912,5.0,5.4478
+12,Active,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Yes,Yes,22,1000,-51.0,7.0,0.0,5.4478
+13,Dormant,Male,Graduate,Student,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,22,0,0.0,5.0,0.0,1.0
+14,Active,Male,Graduate,Student,Savings,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,21,5000,4000.0,5.0,0.0,1.0
+15,Active,Male,Graduate,Student,Savings,No,Yes,No,No,No,Yes,No,No,23,0,0.0,4.0,0.0,3.0
+16,Active,Male,Graduate,Business,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25,3000,10000.0,23.7912,5.0,5.4478
+17,Active,Male,Graduate,Student,Savings,No,No,Yes,Yes,No,Yes,No,No,22,700,700.0,5.0,0.0,1.0
+18,Active,Male,Doctrate,Business,Savings,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,25,3000,1000.0,23.7912,3.0,5.4478
+19,Active,Female,Graduate,Student,Savings,No,No,No,Yes,Yes,Yes,Yes,No,22,600,646.0,5.0,0.0,1.0
+20,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,Need Improvement,Yes,22,600,0.0,5.0,10.0,0.0
+21,Active,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,20,5947,12879.0,0.0,10.0,5.4478
+22,Dormant,Male,10th,Other,No Frill ACcount,Yes,No,No,No,Yes,No,No,Yes,20,500,0.0,23.7912,1.0,5.4478
+23,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,35,5947,27239.0,23.7912,41.1346,5.4478
+24,Active,Male,10th,Student,Savings,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,15,5947,4756.0,10.0,6.0,3.0
+25,Inactive,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,No,No,18,660,0.0,4.0,0.0,1.0
+26,Dormant,Male,Doctrate,Salaried,Senior Citizen Account,Yes,Yes,No,Yes,Yes,Yes,Yes,No,54,5000,0.0,23.7912,41.1346,5.4478
+27,Active,Male,12th,Other,Senior Citizen Account,Yes,No,No,No,No,No,Yes,Yes,54,500,27239.0,23.7912,30.0,5.4478
+28,Active,Female,Doctrate,Business,Current,Yes,Yes,Yes,No,No,No,Yes,Yes,30,5000,3000.0,10.0,41.1346,5.4478
+29,Active,Male,Graduate,Student,Savings,Yes,No,Yes,No,No,No,Yes,Yes,23,500,0.0,4.0,0.0,1.0
+30,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,22,5947,27239.0,23.7912,41.1346,5.4478
+31,Active,Female,Graduate,Student,Savings,No,No,No,No,No,No,Yes,Yes,18,690,700.0,4.0,0.0,1.0
+32,Active,Male,Graduate,Student,Savings,No,No,Yes,No,No,Yes,Yes,No,18,700,0.0,6.0,0.0,1.0
+33,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,No,No,23,500,500.0,4.0,0.0,1.0
+34,Active,Female,Graduate,Student,Savings,No,No,No,Yes,No,Yes,Yes,No,24,600,600.0,6.0,0.0,1.0
+35,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,23,5000,20000.0,23.7912,3.0,-2.0
+36,Active,Male,Graduate,Student,Savings,No,No,No,No,No,Yes,No,Yes,22,690,500.0,4.0,0.0,1.0
+37,Active,Male,Post Graduate,Student,Savings,Yes,No,No,Yes,No,No,No,Yes,24,5000,4000.0,10.0,41.1346,1.0
+38,Active,Male,12th,Student,Current,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,23,5947,12000.0,5.0,30.0,1.0
+39,Active,Male,12th,Student,Current,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,23,5947,12000.0,5.0,30.0,1.0
+40,Dormant,Male,Post Graduate,Other,No Frill ACcount,Yes,Yes,Yes,No,Yes,Yes,No,No,35,1000,200.0,23.7912,13.0,5.4478
+41,Active,Male,Graduate,Salaried,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,24,1500,3000.0,2.0,15.0,1.0
+42,Active,Male,Graduate,Business,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,27,5947,25000.0,15.0,41.1346,1.0
+43,Active,Male,Doctrate,Salaried,Salaried,No,No,No,Yes,Yes,No,Yes,Yes,30,0,27239.0,15.0,41.1346,1.0
+44,Active,Male,Graduate,Salaried,Savings,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,28,5947,27239.0,10.0,41.1346,1.0
+45,Dormant,Female,10th,Other,Savings,No,No,No,No,No,No,No,No,36,1000,1500.0,5.0,2.0,5.4478
+46,Dormant,Female,Graduate,Business,Savings,No,No,No,No,No,Yes,No,No,45,5947,1500.0,10.0,2.0,5.4478
+47,Active,Male,Post Graduate,Business,Current,No,No,Yes,Yes,Yes,No,No,Yes,26,5947,27239.0,20.0,20.0,1.0
+48,Active,Female,12th,Student,Savings,No,No,No,No,No,No,Yes,Yes,20,1500,27239.0,23.7912,15.0,1.0
+49,Inactive,Female,Post Graduate,Salaried,Savings,Yes,No,No,Yes,No,Yes,Need Improvement,Yes,25,5947,27239.0,5.0,0.1,5.4478
+50,Dormant,Male,Doctrate,Other,Savings,No,Yes,No,No,No,No,No,No,26,5947,2500.0,23.7912,2.0,5.4478
+51,Active,Male,10th,Other,Pension,No,No,No,No,No,No,Yes,Yes,54,5947,25000.0,8.0,12.0,1.0
+52,Active,Male,Post Graduate,Business,Current,No,No,Yes,Yes,Yes,Yes,Need Improvement,Yes,25,5947,27239.0,6.0,41.1346,1.0
+53,Dormant,Female,10th,Other,No Frill ACcount,No,No,No,No,No,No,No,No,54,500,200.0,10.0,2.0,5.4478
+54,Active,Female,Doctrate,Salaried,Savings,No,Yes,Yes,Yes,No,No,Yes,Yes,48,5000,12500.0,5.0,12.0,1.0
+55,Active,Female,Post Graduate,Salaried,Savings,No,Yes,Yes,Yes,Yes,No,Yes,Yes,48,5947,27239.0,2.0,12.0,1.0
+56,Active,Female,Graduate,Business,Current,No,No,No,Yes,No,No,Yes,Yes,26,2500,27239.0,5.0,41.1346,1.0
+57,Active,Female,12th,Salaried,Savings,No,No,Yes,Yes,Yes,No,No,Yes,32,2000,25000.0,2.0,15.0,1.0
+58,Active,Male,12th,Other,Savings,Yes,No,No,No,No,Yes,Yes,Yes,26,5947,27239.0,5.0,12.0,1.0
+59,Dormant,Male,Graduate,Salaried,Other,No,Yes,No,No,No,No,Yes,No,22,5947,0.0,5.0,2.0,5.4478
+60,Dormant,Female,Graduate,Salaried,Savings,Yes,No,No,No,No,No,No,No,35,1500,165.0,2.0,2.0,5.4478
+61,Active,Female,12th,Other,Senior Citizen Account,No,No,No,No,No,No,Yes,Yes,54,5947,25000.0,5.0,12.0,1.0
+62,Active,Female,Post Graduate,Business,Savings,Yes,No,Yes,Yes,No,No,No,Yes,30,1000,27239.0,5.0,12.0,1.0
+63,Inactive,Male,12th,Student,Savings,No,No,No,No,No,No,No,No,24,1000,500.0,2.0,0.0,5.4478
+64,Active,Female,10th,Other,Senior Citizen Account,No,No,No,No,No,No,Yes,Yes,54,5000,15000.0,6.0,12.0,1.0
+65,Active,Male,Doctrate,Other,Senior Citizen Account,No,No,No,No,No,No,Need Improvement,Yes,54,5947,27239.0,5.0,12.0,1.0
+66,Active,Male,10th,Student,Savings,Yes,No,No,Yes,No,No,No,Yes,18,1000,12000.0,4.0,12.0,1.0
+67,Active,Male,Graduate,Salaried,Savings,No,Yes,Yes,Yes,No,No,Yes,Yes,24,1500,3500.0,5.0,41.1346,1.0
+68,Active,Male,12th,Business,Current,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,26,5947,27239.0,6.0,41.1346,1.0
+69,Active,Male,Post Graduate,Salaried,Salaried,No,Yes,Yes,No,No,No,Need Improvement,Yes,45,0,27239.0,6.0,15.0,1.0
+70,Dormant,Male,Graduate,Salaried,Savings,No,No,No,No,No,No,No,No,26,1500,250.0,23.7912,0.0,5.4478
+71,Active,Male,12th,Student,Savings,No,Yes,No,Yes,No,No,Yes,Yes,24,1000,5000.0,23.7912,3.0,1.0
+72,Inactive,Male,10th,Other,No Frill ACcount,Yes,No,Yes,Yes,Yes,Yes,Need Improvement,Yes,35,0,27239.0,2.0,6.0,5.4478
+73,Active,Male,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,25,500,6000.0,5.0,5.0,1.0
+74,Dormant,Male,Graduate,Business,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,29,700,1000.0,15.0,2.0,5.4478
+75,Active,Female,Graduate,Student,Savings,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,21,1000,15000.0,1.0,10.0,1.0
+76,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,No,21,1000,468.0,3.0,21.0,1.0
+77,Dormant,Male,12th,Other,Savings,No,No,No,No,No,No,No,No,35,500,0.0,2.0,0.0,5.4478
+78,Dormant,Male,10th,Business,Savings,No,Yes,Yes,No,No,Yes,No,No,40,500,200.0,5.0,5.0,5.4478
+79,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,No,38,500,1200.0,23.7912,2.0,5.4478
+80,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,38,500,1200.0,23.7912,10.0,5.4478
+81,Dormant,Female,12th,Student,Savings,Yes,Yes,Yes,Yes,Yes,Yes,No,No,21,1000,25009.0,6.0,0.0,5.4478
+82,Active,Male,Graduate,Salaried,Salaried,No,No,Yes,Yes,Yes,Yes,Yes,Yes,38,5947,27239.0,15.0,12.0,1.0
+83,Active,Male,Post Graduate,Business,Savings,Yes,No,No,Yes,No,No,No,Yes,54,1000,2000.0,3.0,12.0,1.0
+84,Dormant,Female,12th,Student,Other,Yes,No,No,No,No,No,No,Yes,18,500,900.0,23.7912,0.0,5.4478
+85,Dormant,Male,Graduate,Other,Savings,No,Yes,No,No,No,No,Yes,No,54,500,250.0,23.7912,7.0,5.4478
+86,Dormant,Female,Graduate,Not working,Savings,Yes,Yes,No,No,No,No,Yes,No,35,500,1300.0,23.7912,10.0,5.4478
+87,Dormant,Female,Graduate,Salaried,Salaried,No,Yes,No,No,No,Yes,No,No,36,1000,115.0,2.0,17.0,5.4478
+88,Dormant,Female,10th,Other,Current,No,Yes,No,No,No,No,No,No,54,0,-72.0,23.7912,10.0,5.4478
+89,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,26,5000,2000.0,5.0,4.0,1.0
+90,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,26,5947,5000.0,1.0,5.0,3.0
+91,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,26,3000,1000.0,2.0,5.0,3.0
+92,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,26,1000,5000.0,5.0,0.0,1.0
+93,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,No,26,1000,1000.0,3.0,5.0,1.0
+94,Dormant,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,26,5000,250.0,4.0,5.0,1.0
+95,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,27,2000,1000.0,3.0,0.0,2.0
+96,Active,Female,12th,Student,Savings,Yes,Yes,Yes,Yes,No,No,No,Yes,18,0,0.0,6.0,0.0,-3.0
+97,Dormant,Female,12th,Student,Other,No,No,No,No,No,No,No,No,21,500,500.0,5.5,2.0,5.4478
+98,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,No,Yes,22,0,0.0,23.7912,12.0,1.0
+99,Active,Female,Graduate,Salaried,Savings,No,No,No,Yes,No,No,No,Yes,25,0,27239.0,7.0,15.0,3.0
+100,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,37,5947,27239.0,2.0,20.0,1.0
+101,Dormant,Female,Doctrate,Salaried,Salaried,No,Yes,Yes,No,No,No,No,No,36,500,240.0,23.7912,6.0,5.4478
+102,Active,Male,Graduate,Salaried,Salaried,No,Yes,Yes,Yes,No,No,Need Improvement,Yes,24,0,120.0,2.0,35.0,1.0
+103,Dormant,Male,Post Graduate,Business,Savings,No,Yes,No,No,No,No,No,No,30,0,0.0,23.7912,0.0,5.4478
+104,Dormant,Male,Post Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,Need Improvement,No,30,5947,1500.0,22.0,0.0,5.4478
+105,Active,Male,Graduate,Business,Savings,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,35,2000,27239.0,15.0,12.0,3.0
+106,Inactive,Male,Graduate,Salaried,Savings,Yes,No,No,No,No,No,Yes,Yes,2,5000,5234.0,1.0,1.0,5.4478
+107,Active,Female,Graduate,Salaried,Salaried,Yes,No,No,No,No,No,Yes,Yes,45,2500,12000.0,4.0,15.0,2.0
+108,Active,Female,Graduate,Other,Current,No,No,No,No,No,No,No,Yes,35,1000,32.0,3.0,5.0,5.0
+109,Inactive,Male,Post Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,No,Yes,35,5947,27239.0,15.0,0.0,5.4478
+110,Active,Male,Graduate,Salaried,Savings,No,Yes,No,Yes,Yes,No,Yes,Yes,23,0,15000.0,23.7912,41.1346,1.0
+111,Dormant,Male,Graduate,Salaried,Savings,Yes,No,No,No,No,No,No,No,28,1500,27239.0,9.0,0.0,5.4478
+112,Active,Male,10th,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,Yes,54,5947,27239.0,23.7912,5.0,2.0
+113,Active,Male,Graduate,Business,Savings,No,Yes,No,Yes,No,No,Yes,Yes,34,5947,27239.0,5.0,12.0,1.0
+114,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,Yes,Yes,22,3000,0.0,1.0,0.0,1.0
+115,Active,Male,Post Graduate,Student,Savings,Yes,Yes,No,No,No,No,Need Improvement,Yes,24,1000,5000.0,3.0,5.0,2.0
+116,Dormant,Female,Graduate,Salaried,Savings,No,Yes,No,No,No,No,No,No,41,1000,0.0,23.7912,0.0,5.4478
+117,Active,Transgender,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,21,1000,8000.0,4.0,12.0,1.0
+118,Inactive,Male,Graduate,Student,Savings,No,No,No,No,No,No,No,No,21,0,10.0,10.0,0.1,5.4478
+119,Dormant,Male,Post Graduate,Salaried,Salaried,No,Yes,No,No,Yes,No,Need Improvement,No,38,1000,500.0,23.7912,0.0,5.4478
+120,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,25,1000,1000.0,2.0,15.0,1.0
+121,Active,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Need Improvement,Yes,22,1000,68.0,23.7912,20.0,1.0
+122,Active,Male,10th,Other,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,50,3000,700.0,23.7912,41.1346,5.4478
+123,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,54,0,25000.0,23.7912,41.1346,1.0
+124,Inactive,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,No,Yes,54,500,10000.0,15.0,0.0,5.4478
+125,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,No,Yes,16,500,500.0,7.0,40.0,1.0
+126,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,No,Yes,16,500,500.0,7.0,40.0,1.0
+127,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,Yes,No,No,No,Yes,Yes,54,5000,27239.0,23.7912,12.0,3.0
+128,Active,Male,Graduate,Salaried,Savings,No,No,Yes,No,Yes,Yes,No,Yes,35,1989,14900.0,23.7912,32.0,1.0
+129,Inactive,Female,Graduate,Not working,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,30,1000,10000.0,4.0,0.0,5.4478
+130,Dormant,Female,12th,Other,Savings,Yes,No,No,No,No,No,Need Improvement,No,54,5947,27239.0,3.0,2.0,5.4478
+131,Active,Male,Graduate,Salaried,Current,No,Yes,Yes,Yes,No,Yes,Yes,No,50,1000,500.0,0.0,5.0,5.4478
+132,Dormant,Male,12th,Other,Savings,No,Yes,Yes,No,No,No,Yes,Yes,29,2000,30.0,23.7912,3.0,5.4478
+133,Dormant,Male,Graduate,Other,No Frill ACcount,No,No,No,No,No,No,No,No,23,1000,20.0,10.0,0.0,5.4478
+134,Active,Male,Graduate,Other,Savings,No,Yes,Yes,Yes,No,No,Yes,Yes,22,5000,1000.0,3.0,12.0,1.0
+135,Active,Male,Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,Yes,Yes,23,1000,27239.0,1.0,12.0,1.0
+136,Inactive,Male,Graduate,Student,Savings,No,No,Yes,Yes,Yes,No,Need Improvement,No,25,2000,0.0,0.0,3.0,2.0
+137,Active,Male,Graduate,Salaried,Savings,Yes,No,No,No,No,No,Yes,Yes,22,900,27239.0,4.0,12.0,1.0
+138,Active,Female,Graduate,Student,Savings,Yes,No,No,No,Yes,No,Need Improvement,Yes,19,4000,4000.0,4.0,41.1346,0.0
+139,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,No,Yes,31,5947,8000.0,15.0,41.1346,1.0
+140,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,31,2000,10000.0,3.0,41.1346,1.0
+141,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,No,Yes,31,2000,27239.0,1.0,41.1346,1.0
+142,Active,Male,12th,Salaried,Savings,Yes,No,No,Yes,No,No,No,Yes,33,5947,25000.0,15.0,12.0,1.0
+143,Active,Male,Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,No,Yes,33,5947,27239.0,5.0,41.1346,1.0
+144,Dormant,Male,10th,Other,Savings,Yes,No,No,No,No,No,No,No,35,1000,500.0,15.0,0.0,5.4478
+145,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,No,Yes,25,1000,5000.0,23.7912,12.0,1.0
+146,Active,Male,Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,No,Yes,33,1500,500.0,23.7912,12.0,1.0
+147,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,No,Yes,36,2000,7000.0,10.0,12.0,1.0
+148,Dormant,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,No,No,35,2000,800.0,23.7912,2.0,5.4478
+149,Inactive,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,No,No,28,5947,10000.0,23.7912,0.1,5.4478
+150,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,No,Yes,32,2000,3000.0,23.7912,41.1346,3.0
+151,Dormant,Male,Graduate,Salaried,Savings,No,Yes,No,Yes,No,No,Need Improvement,No,34,2500,0.0,23.7912,2.0,5.4478
+152,Active,Male,10th,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,35,5947,25000.0,23.7912,12.0,1.0
+153,Dormant,Male,Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,No,No,36,5947,18000.0,23.7912,2.0,5.4478
+154,Dormant,Male,Graduate,Other,Other,Yes,Yes,Yes,Yes,No,No,No,No,28,2000,25000.0,15.0,2.0,5.4478
+155,Dormant,Male,Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,No,No,36,5947,18000.0,23.7912,2.0,5.4478
+156,Dormant,Male,Graduate,Other,Other,Yes,Yes,Yes,Yes,No,No,Yes,No,28,2000,25000.0,15.0,2.0,5.4478
+157,Dormant,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,No,No,35,2000,800.0,23.7912,2.0,5.4478
+158,Inactive,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,No,No,28,5947,10000.0,23.7912,0.1,5.4478
+159,Dormant,Male,Graduate,Salaried,Salaried,No,Yes,Yes,Yes,No,No,No,No,36,5947,5000.0,23.7912,2.0,5.4478
+160,Active,Male,12th,Business,Savings,Yes,Yes,No,Yes,No,No,No,Yes,40,2000,27239.0,10.0,12.0,1.0
+161,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,Yes,Yes,No,45,1000,1000.0,23.7912,2.0,-3.0
+162,Active,Male,10th,Other,Savings,Yes,Yes,Yes,No,No,No,Yes,Yes,54,1000,15000.0,5.0,4.0,1.0
+163,Active,Male,Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,Yes,Yes,28,5947,27239.0,10.0,12.0,1.0
+164,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,30,5947,27239.0,1.0,12.0,1.0
+165,Dormant,Male,Graduate,Business,Savings,No,Yes,Yes,Yes,Yes,Yes,No,No,28,500,0.0,2.0,2.0,5.4478
+166,Active,Male,Graduate,Other,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,54,500,27239.0,1.0,8.0,2.0
+167,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,No,No,Yes,No,No,41,500,2500.0,23.7912,2.0,5.4478
+168,Inactive,Male,12th,Student,Savings,Yes,No,No,No,No,No,Yes,No,20,2500,15000.0,3.0,0.1,5.4478
+169,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,25,5947,25000.0,5.0,12.0,1.0
+170,Active,Female,Graduate,Student,Other,Yes,No,No,Yes,No,Yes,Yes,Yes,21,1000,2000.0,1.0,5.0,1.0
+171,Active,Male,Graduate,Salaried,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25,0,27239.0,10.0,41.1346,1.0
+172,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,No,25,1000,27239.0,23.7912,0.0,5.4478
+173,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,No,25,2000,27239.0,23.7912,0.0,5.4478
+174,Active,Female,12th,Student,Savings,Yes,No,No,No,Yes,No,Yes,Yes,20,0,20.0,1.0,20.0,1.0
+175,Inactive,Male,10th,Other,No Frill ACcount,No,Yes,Yes,No,No,Yes,Yes,No,40,0,0.0,23.7912,4.0,5.4478
+176,Dormant,Male,12th,Salaried,Savings,No,Yes,No,Yes,No,No,Yes,No,50,3000,0.0,23.7912,1.0,-2.0
+177,Dormant,Male,Doctrate,Salaried,Salaried,No,Yes,Yes,No,No,No,No,No,39,500,300.0,23.7912,15.0,5.4478
+178,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29,5947,27239.0,10.0,12.0,1.0
+179,Active,Female,Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,22,3000,0.0,3.0,12.0,1.0
+180,Dormant,Male,10th,Other,Other,No,No,Yes,No,No,Yes,Need Improvement,No,43,500,10.0,23.7912,2.0,5.4478
+181,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,23,1000,15000.0,3.0,2.0,1.0
+182,Active,Female,Post Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,Yes,21,500,69.0,1.0,12.0,1.0
+183,Active,Male,Graduate,Business,Savings,Yes,No,No,Yes,No,No,Yes,Yes,22,2000,500.0,23.7912,3.0,5.4478
+184,Inactive,Female,Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,No,20,2020,0.0,5.0,0.1,1.0
+185,Active,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,26,1000,27239.0,10.0,8.0,2.0
+186,Dormant,Male,Graduate,Student,Current,No,No,No,No,No,No,No,No,21,0,0.0,7.0,2.0,5.4478
+187,Active,Female,12th,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,21,2000,3500.0,2.0,0.0,5.4478
+188,Active,Male,Graduate,Salaried,Savings,Yes,No,No,No,No,No,Yes,Yes,26,1000,1000.0,2.0,41.1346,1.0
+189,Active,Male,Post Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,29,1000,3000.0,9.0,9.0,2.0
+190,Dormant,Female,Post Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,38,1000,2500.0,23.7912,12.0,5.4478
+191,Inactive,Female,Post Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,23,0,27239.0,10.0,0.0,5.4478
+192,Active,Female,Post Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,23,500,5000.0,1.0,5.0,1.0
+193,Active,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,No,No,Yes,Yes,24,5947,27239.0,3.0,41.1346,1.0
+194,Dormant,Male,Graduate,Business,Savings,Yes,Yes,Yes,Yes,No,No,Yes,No,24,1000,10000.0,2.0,1.0,5.4478
+195,Dormant,Female,Graduate,Not working,Savings,No,Yes,No,No,No,No,Yes,No,28,500,201.0,20.0,5.0,5.4478
+196,Active,Female,Graduate,Student,Current,Yes,No,No,Yes,No,No,Yes,Yes,23,500,5000.0,5.0,12.0,1.0
+197,Active,Female,Post Graduate,Business,Savings,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,30,2000,27239.0,10.0,12.0,1.0
+198,Active,Female,Graduate,Business,Current,Yes,No,Yes,Yes,Yes,No,Yes,Yes,22,2000,27239.0,3.0,12.0,1.0
+199,Active,Female,Post Graduate,Salaried,Current,Yes,No,No,No,No,No,Need Improvement,Yes,23,1000,27239.0,5.0,12.0,3.0
+200,Inactive,Female,Graduate,Business,Current,Yes,No,Yes,No,No,No,No,No,29,600,3900.0,23.7912,0.1,2.0
+201,Active,Female,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,27,5000,27239.0,4.0,12.0,1.0
+202,Active,Female,Graduate,Business,Current,No,Yes,Yes,Yes,No,No,Yes,No,29,3000,5.0,10.0,12.0,1.0
+203,Active,Female,Doctrate,Business,Current,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,33,1000,27239.0,1.0,12.0,1.0
+204,Active,Female,Graduate,Business,Salaried,No,No,No,No,No,No,No,No,34,600,27239.0,5.0,12.0,5.4478
+205,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,27,3000,3500.0,4.0,2.0,5.4478
+206,Active,Female,Graduate,Student,Savings,Yes,No,Yes,Yes,Yes,Yes,Yes,No,29,2000,3000.0,23.7912,12.0,1.0
+207,Active,Female,Graduate,Business,Savings,Yes,No,No,Yes,Yes,Yes,Yes,Yes,24,3000,5000.0,4.0,12.0,1.0
+208,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,28,2000,5000.0,10.0,2.0,5.4478
+209,Inactive,Female,12th,Student,Current,No,No,Yes,No,No,No,No,Yes,20,500,500.0,4.0,0.1,5.4478
+210,Dormant,Female,Post Graduate,Business,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,27,5000,10000.0,23.7912,2.0,5.4478
+211,Active,Female,Graduate,Business,Salaried,Yes,No,No,No,Yes,No,No,Yes,45,500,27239.0,5.0,12.0,3.0
+212,Inactive,Female,Graduate,Student,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,26,3000,27239.0,23.7912,0.1,5.4478
+213,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,23,5947,27239.0,2.0,12.0,1.0
+214,Active,Female,Graduate,Salaried,Salaried,No,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,24,2000,1500.0,3.0,12.0,1.0
+215,Active,Female,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,25,5000,5000.0,20.0,12.0,1.0
+216,Active,Female,Post Graduate,Business,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,30,5000,27239.0,2.0,12.0,1.0
+217,Dormant,Female,Post Graduate,Other,Salaried,Yes,Yes,Yes,Yes,No,Yes,No,Yes,25,5000,4000.0,3.0,2.0,5.4478
+218,Dormant,Female,Post Graduate,Business,Current,No,Yes,Yes,Yes,Yes,No,Yes,Yes,25,2000,1.0,5.0,2.0,5.4478
+219,Dormant,Female,Post Graduate,Salaried,Salaried,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,29,5000,1099.0,5.0,2.0,5.4478
+220,Dormant,Female,Post Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,28,3000,27239.0,14.0,2.0,5.4478
+221,Dormant,Male,Post Graduate,Salaried,Salaried,No,Yes,Yes,Yes,Yes,Yes,Need Improvement,No,32,5947,500.0,2.0,2.0,5.4478
+222,Active,Female,Post Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,34,2000,2000.0,23.7912,12.0,1.0
+223,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,22,500,5000.0,0.0,41.1346,1.0
+224,Active,Female,Post Graduate,Business,Savings,Yes,No,Yes,No,No,No,No,No,38,500,27239.0,8.0,12.0,1.0
+225,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,25,1000,2800.0,2.0,5.0,2.0
+226,Active,Female,Post Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,Yes,Yes,28,0,8000.0,3.0,20.0,1.0
+227,Active,Female,Doctrate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,26,5947,27239.0,1.0,35.0,1.0
+228,Active,Female,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,29,5947,27239.0,2.5,41.1346,1.0
+229,Inactive,Female,12th,Student,Savings,Yes,No,No,No,Yes,No,Need Improvement,No,20,600,27239.0,14.0,0.1,5.4478
+230,Inactive,Female,Post Graduate,Salaried,Salaried,No,No,No,No,No,No,No,No,37,500,500.0,3.0,0.1,5.4478
+231,Inactive,Female,Graduate,Business,Current,Yes,No,No,No,No,No,Need Improvement,No,38,500,500.0,7.0,0.1,5.4478
+232,Active,Female,Graduate,Salaried,Salaried,No,No,No,No,No,No,Yes,No,45,700,5000.0,6.0,12.0,0.0
+233,Dormant,Male,Post Graduate,Salaried,Savings,No,Yes,Yes,No,No,No,No,No,34,1000,320.0,23.7912,2.0,5.4478
+234,Active,Female,Graduate,Student,Savings,No,No,Yes,Yes,Yes,No,Need Improvement,Yes,22,1500,150.0,5.0,12.0,1.0
+235,Active,Male,Post Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,26,3000,2000.0,4.0,25.0,1.0
+236,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,39,2500,3000.0,23.7912,10.0,5.4478
+237,Dormant,Female,Post Graduate,Salaried,Savings,No,Yes,Yes,No,No,Yes,No,No,30,1500,6000.0,2.0,0.0,5.4478
+238,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,23,200,27239.0,1.0,41.1346,1.0
+239,Active,Female,Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,36,5000,0.0,4.0,5.0,1.0
+240,Active,Male,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,30,500,500.0,20.0,12.0,1.0
+241,Dormant,Male,Graduate,Business,Savings,Yes,No,No,Yes,Yes,No,No,Yes,27,3000,25000.0,16.0,2.0,5.4478
+242,Active,Male,Post Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,24,500,12000.0,1.0,1.0,2.0
+243,Dormant,Male,Post Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,24,1000,5000.0,1.0,0.0,5.4478
+244,Inactive,Female,Post Graduate,Student,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,25,0,27239.0,12.0,0.0,5.4478
+245,Inactive,Female,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,20,2500,850.0,6.0,7.0,3.0
+246,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,29,4000,2000.0,5.0,41.1346,2.0
+247,Inactive,Female,Post Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,23,0,27239.0,10.0,1.0,5.4478
+248,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,5947,27239.0,5.0,3.0,1.0
+249,Inactive,Female,Graduate,Other,Savings,No,No,No,Yes,No,No,Yes,Yes,42,2500,6000.0,23.7912,0.0,-3.4478
+250,Active,Female,Post Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,23,500,5000.0,1.0,5.0,1.0
+251,Active,Female,Graduate,Salaried,Savings,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,31,5000,27239.0,8.0,20.0,1.0
+252,Inactive,Female,Doctrate,Student,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,30,5947,27239.0,4.0,9.0,1.0
+253,Active,Male,Graduate,Business,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,50,5947,27239.0,2.0,3.0,1.0
+254,Active,Male,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,23,0,27239.0,15.0,5.0,1.0
+255,Active,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,37,1000,17000.0,1.0,3.0,-3.4478
+256,Inactive,Male,12th,Salaried,Pension,Yes,Yes,No,No,No,No,Need Improvement,Yes,54,500,27239.0,23.7912,2.0,3.0
+257,Active,Male,Graduate,Salaried,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25,0,27239.0,10.0,41.1346,1.0
+258,Dormant,Female,Graduate,Other,Savings,Yes,No,No,No,No,No,Need Improvement,No,54,5947,27239.0,2.0,3.0,5.4478
+259,Dormant,Male,Post Graduate,Business,Savings,No,Yes,No,No,No,No,No,No,30,0,0.0,23.7912,0.0,-3.4478
+260,Dormant,Male,12th,Student,Savings,No,No,No,Yes,No,No,No,No,20,1000,250.0,2.0,0.0,3.0
+261,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,25,1000,27239.0,2.0,6.0,2.0
+262,Active,Male,Graduate,Business,Salaried,No,Yes,Yes,Yes,No,No,Yes,Yes,20,0,27239.0,8.0,23.0,3.0
+263,Dormant,Male,12th,Salaried,Savings,Yes,No,No,Yes,No,No,No,No,23,500,27239.0,4.0,0.0,5.4478
+264,Active,Male,10th,Other,No Frill ACcount,Yes,No,No,No,No,No,No,Yes,54,600,27239.0,7.0,4.0,4.0
+265,Active,Male,Post Graduate,Business,Savings,Yes,No,No,No,No,No,No,No,30,600,6523.0,5.0,34.0,1.0
+266,Active,Male,12th,Business,Savings,Yes,No,Yes,Yes,Yes,No,Yes,Yes,48,5000,27239.0,6.0,41.1346,1.0
+267,Active,Female,Graduate,Salaried,Salaried,No,Yes,No,No,Yes,No,No,No,54,1000,8494.0,19.0,13.0,2.0
+268,Active,Male,12th,Student,Savings,No,No,No,No,No,No,No,Yes,40,500,27239.0,17.0,34.0,2.0
+269,Inactive,Male,10th,Other,No Frill ACcount,Yes,No,Yes,Yes,Yes,Yes,Need Improvement,Yes,54,0,27239.0,20.0,1.0,5.4478
+270,Inactive,Male,Doctrate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,54,1000,27239.0,17.0,3.0,5.4478
+271,Active,Female,10th,Salaried,Savings,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,32,1100,27239.0,14.0,21.0,2.0
+272,Active,Female,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,21,1000,27239.0,23.7912,2.0,3.0
+273,Active,Male,Graduate,Salaried,No Frill ACcount,No,No,Yes,No,Yes,Yes,No,Yes,26,1989,1913.0,4.0,4.0,1.0
+274,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,16,1000,2005.0,9.0,1.0,-3.4478
+275,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,5947,416.0,7.0,34.0,2.0
+276,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,5947,27239.0,2.0,41.1346,-3.4478
+277,Active,Female,Graduate,Not working,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,5947,27239.0,2.0,41.1346,1.0
+278,Dormant,Female,Post Graduate,Other,No Frill ACcount,No,No,No,No,No,No,No,No,30,1000,9058.0,8.0,0.0,5.4478
+279,Active,Male,Graduate,Student,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,40,1000,27239.0,6.0,4.0,2.0
+280,Inactive,Female,Graduate,Salaried,Savings,No,No,No,No,No,No,No,Yes,45,2200,27239.0,12.0,0.0,5.4478
+281,Active,Male,Post Graduate,Business,Savings,Yes,Yes,No,Yes,Yes,No,No,Yes,54,5000,27239.0,8.0,12.0,1.0
+282,Inactive,Female,10th,Other,No Frill ACcount,No,No,No,No,No,No,Need Improvement,Yes,46,5947,2253.0,12.0,3.0,5.4478
+283,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,No,Yes,54,5947,18743.0,8.0,32.0,-3.4478
+284,Active,Female,Doctrate,Salaried,Savings,No,No,No,No,No,No,No,Yes,49,5947,27239.0,4.0,41.1346,2.0
+285,Dormant,Female,12th,Salaried,Savings,No,No,No,No,No,No,No,No,50,4000,2585.0,9.0,0.0,-3.0
+286,Dormant,Female,12th,Student,No Frill ACcount,No,No,No,No,No,No,No,No,23,500,1845.0,5.0,0.0,-1.0
+287,Inactive,Female,Doctrate,Salaried,Savings,Yes,No,No,Yes,No,Yes,No,Yes,54,2000,411.0,9.0,3.0,-2.0
+288,Dormant,Male,Graduate,Other,Senior Citizen Account,Yes,Yes,No,No,No,No,Yes,No,54,1000,1000.0,10.0,15.0,1.0
+289,Inactive,Female,Graduate,Salaried,Salaried,No,No,No,No,No,No,Need Improvement,Yes,54,5947,8718.0,7.0,5.0,5.4478
+290,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,54,2000,27239.0,5.0,12.0,-3.4478
+291,Active,Transgender,Graduate,Student,No Frill ACcount,Yes,No,No,No,No,No,Yes,Yes,32,500,87.0,6.0,40.0,2.0
+292,Active,Male,12th,Other,Savings,Yes,Yes,No,No,Yes,No,Yes,Yes,45,5947,27239.0,3.0,41.1346,2.0
+293,Dormant,Female,Graduate,Business,No Frill ACcount,No,Yes,Yes,No,No,Yes,No,No,54,5947,1005.0,23.7912,0.0,0.0
+294,Active,Male,Graduate,Business,Savings,Yes,No,No,No,No,No,Yes,Yes,32,2000,6511.0,2.0,34.0,0.0
+295,Dormant,Male,Graduate,Other,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,35,1000,1000.0,2.0,1.0,-1.0
+296,Dormant,Female,10th,Other,Savings,Yes,No,No,No,No,No,Yes,No,40,1000,500.0,6.0,0.0,-3.0
+297,Active,Female,Post Graduate,Student,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,25,2000,12000.0,6.0,10.0,1.0
+298,Active,Female,Graduate,Salaried,Salaried,Yes,No,No,No,No,No,Yes,Yes,45,2500,12000.0,4.0,15.0,2.0
+299,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,24,1000,1500.0,1.0,5.0,1.0
+300,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,24,500,1000.0,1.0,15.0,1.0
+301,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,24,500,800.0,0.05,10.0,1.0
+302,Active,Female,10th,Other,Pension,Yes,Yes,No,No,No,No,Yes,Yes,54,500,2000.0,0.1,5.0,1.0
+303,Active,Female,10th,Other,Pension,Yes,No,No,No,No,No,Yes,Yes,54,500,600.0,0.1,3.0,1.0
+304,Dormant,Male,Graduate,Salaried,Current,Yes,Yes,No,No,No,No,No,No,40,2000,5000.0,3.0,2.0,5.4478
+305,Active,Female,Post Graduate,Other,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,36,1000,27239.0,0.2,40.0,1.0
+306,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,Yes,24,500,0.0,1.0,5.0,1.0
+307,Active,Male,Post Graduate,Other,Savings,Yes,No,No,Yes,No,No,Yes,Yes,30,2000,10000.0,0.1,10.0,1.0
+308,Dormant,Male,Graduate,Business,Savings,No,No,No,No,No,No,No,No,32,0,500.0,0.1,0.0,5.4478
+309,Active,Male,Graduate,Salaried,Savings,No,Yes,No,Yes,No,No,Yes,Yes,24,500,9.0,0.05,5.0,1.0
+310,Active,Male,12th,Salaried,Salaried,Yes,No,No,Yes,No,No,Yes,Yes,24,1000,500.0,1.0,15.0,1.0
+311,Inactive,Male,12th,Business,Savings,No,No,Yes,Yes,Yes,Yes,Need Improvement,Yes,24,2000,0.0,23.7912,0.0,-3.4478
+312,Inactive,Male,12th,Business,Savings,No,Yes,No,Yes,No,Yes,Yes,No,24,0,0.0,23.7912,0.0,5.4478
+313,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,30,2000,5000.0,5.0,15.0,1.0
+314,Active,Female,Graduate,Other,Savings,Yes,No,No,Yes,No,No,Yes,Yes,28,500,5000.0,5.0,10.0,1.0
+315,Dormant,Female,Graduate,Salaried,Other,No,Yes,No,No,No,No,Yes,No,24,0,0.0,2.0,0.0,5.4478
+316,Active,Male,Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,Yes,Yes,50,500,500.0,0.1,6.0,1.0
+317,Active,Female,12th,Student,Other,No,No,No,Yes,No,No,Yes,Yes,18,500,200.0,3.0,3.0,-3.4478
+318,Active,Female,10th,Other,Other,No,Yes,No,No,No,Yes,Need Improvement,Yes,45,0,50.0,1.0,1.0,-3.4478
+319,Dormant,Male,Graduate,Business,Savings,No,Yes,Yes,Yes,Yes,Yes,No,No,28,500,0.0,2.0,2.0,5.4478
+320,Dormant,Female,12th,Other,Savings,No,Yes,No,No,No,No,Need Improvement,No,50,500,70.0,4.0,2.0,5.4478
+321,Active,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,28,2000,27239.0,2.0,12.0,1.0
+322,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,25,0,1500.0,5.0,15.0,1.0
+323,Dormant,Male,Post Graduate,Salaried,Savings,No,Yes,No,No,No,No,Need Improvement,No,27,500,5.0,23.7912,0.0,5.4478
+324,Dormant,Male,12th,Salaried,Savings,Yes,No,No,Yes,No,No,No,No,35,500,10000.0,5.0,0.0,5.4478
+325,Active,Male,Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,Yes,Yes,24,1000,11000.0,3.0,40.0,1.0
+326,Inactive,Female,Graduate,Other,Savings,No,No,No,Yes,No,No,Yes,Yes,42,2500,6000.0,2.0,0.0,5.4478
+327,Dormant,Female,Graduate,Not working,Savings,Yes,Yes,No,Yes,No,No,Yes,No,36,5000,6000.0,2.0,0.0,5.4478
+328,Active,Male,Graduate,Salaried,Savings,No,No,Yes,Yes,Yes,No,Yes,Yes,24,0,400.0,10.0,40.0,1.0
+329,Active,Male,Post Graduate,Salaried,Current,Yes,No,No,Yes,No,No,No,Yes,30,5947,1000.0,23.7912,1.0,-3.4478
+330,Dormant,Transgender,Graduate,Business,No Frill ACcount,No,No,No,No,No,No,Need Improvement,No,30,400,0.0,5.0,0.0,1.0
+331,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,Yes,Yes,Yes,29,1000,27239.0,6.0,19.0,1.0
+332,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,No,23,0,100.0,1.0,2.0,1.0
+333,Active,Male,10th,Other,Savings,Yes,No,Yes,No,No,Yes,No,Yes,26,1000,15000.0,23.7912,2.0,3.0
+334,Dormant,Female,Graduate,Other,Savings,Yes,No,No,No,No,No,Need Improvement,No,54,5947,27239.0,2.0,2.0,5.4478
+335,Active,Female,12th,Not working,Current,No,No,No,No,No,No,Need Improvement,Yes,54,5000,27239.0,2.0,12.0,1.0
+336,Active,Male,Post Graduate,Salaried,Savings,No,No,Yes,Yes,Yes,No,Need Improvement,Yes,28,5000,2800.0,23.7912,12.0,1.0
+337,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,29,0,2500.0,15.0,41.1346,1.0
+338,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,29,0,2500.0,15.0,41.1346,1.0
+339,Dormant,Male,12th,Other,Savings,Yes,Yes,No,No,No,No,No,No,54,1000,1200.0,23.7912,10.0,5.4478
+340,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,28,2500,2500.0,15.0,12.0,1.0
+341,Active,Male,Doctrate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,28,2500,27239.0,1.0,12.0,1.0
+342,Active,Male,Post Graduate,Business,Current,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,5947,1200.0,0.5,12.0,1.0
+343,Dormant,Male,10th,Student,Savings,No,No,No,No,No,No,Need Improvement,No,28,1000,200.0,11.0,2.0,5.4478
+344,Active,Male,Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,0,25000.0,1.0,12.0,1.0
+345,Active,Male,Doctrate,Student,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,28,5947,10000.0,1.0,12.0,1.0
+346,Active,Male,Doctrate,Business,Current,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,28,5947,10000.0,23.7912,12.0,1.0
+347,Dormant,Male,Post Graduate,Business,Current,No,No,No,Yes,Yes,No,Need Improvement,No,28,1000,200.0,15.0,2.0,5.4478
+348,Inactive,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,28,5947,4000.0,1.0,0.1,1.0
+349,Active,Male,Graduate,Student,Current,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,28,5947,2500.0,23.7912,12.0,1.0
+350,Active,Male,Doctrate,Business,Current,No,Yes,No,Yes,No,No,Need Improvement,Yes,28,5947,120.0,1.0,12.0,1.0
+351,Active,Male,Doctrate,Other,Current,Yes,No,No,No,No,No,Need Improvement,Yes,28,1500,27239.0,23.7912,12.0,1.0
+352,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,4600,1000.0,15.0,12.0,1.0
+353,Active,Male,12th,Business,Current,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,28,1900,2500.0,5.0,12.0,1.0
+354,Active,Male,Doctrate,Salaried,Savings,Yes,No,No,No,No,No,Need Improvement,No,28,1600,4300.0,8.0,12.0,3.0
+355,Active,Male,Doctrate,Salaried,Savings,Yes,No,No,No,No,No,Need Improvement,No,28,1600,4300.0,8.0,12.0,3.0
+356,Active,Male,Doctrate,Salaried,Savings,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,28,2500,1800.0,1.0,12.0,1.0
+357,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,28,1300,7500.0,23.7912,12.0,1.0
+358,Active,Male,Graduate,Student,Current,Yes,Yes,No,No,No,No,Need Improvement,Yes,28,5947,27000.0,23.7912,12.0,1.0
+359,Active,Male,Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,29,5947,10000.0,23.7912,12.0,1.0
+360,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,No,Yes,24,5000,7000.0,15.0,15.0,4.0
+361,Active,Female,Doctrate,Salaried,Savings,Yes,No,Yes,Yes,Yes,No,Yes,Yes,47,5000,27239.0,2.0,41.1346,1.0
+362,Active,Female,10th,Other,Pension,Yes,Yes,Yes,Yes,No,No,No,Yes,32,0,23.0,10.0,12.0,1.0
+363,Active,Female,12th,Salaried,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,22,1000,18900.0,2.0,41.1346,1.0
+364,Active,Male,12th,Student,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,21,2000,5000.0,5.0,12.0,1.0
+365,Dormant,Female,Post Graduate,Salaried,Salaried,No,Yes,No,No,No,Yes,Need Improvement,No,26,1000,205.0,23.7912,10.0,5.4478
+366,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,30,5947,27239.0,5.0,12.0,1.0
+367,Dormant,Male,Post Graduate,Business,Savings,No,Yes,No,No,No,No,No,No,39,500,300.0,23.7912,5.0,5.4478
+368,Active,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,22,300,2000.0,15.0,6.0,5.4478
+369,Active,Male,Doctrate,Salaried,Savings,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,35,5947,27239.0,1.0,41.1346,1.0
+370,Dormant,Male,12th,Other,Senior Citizen Account,No,Yes,Yes,No,No,Yes,No,No,54,500,200.0,23.7912,5.0,5.4478
+371,Dormant,Male,Graduate,Salaried,Salaried,No,Yes,No,No,Yes,No,No,No,25,5947,0.0,4.0,0.0,5.4478
+372,Dormant,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,No,Yes,21,5699,637.0,1.0,2.0,1.0
+373,Dormant,Male,10th,Other,No Frill ACcount,No,Yes,Yes,No,No,No,No,No,52,500,200.0,23.7912,4.0,5.4478
+374,Active,Male,Graduate,Student,Current,No,No,No,No,No,No,No,Yes,22,2000,20000.0,5.0,10.0,1.0
+375,Active,Male,12th,Business,Current,No,Yes,No,Yes,No,No,Yes,Yes,46,0,27239.0,7.0,15.0,2.0
+376,Active,Male,12th,Salaried,Savings,Yes,No,Yes,No,No,No,No,Yes,25,1200,27239.0,6.0,28.0,1.0
+377,Active,Male,12th,Other,Savings,Yes,Yes,No,No,Yes,No,Yes,Yes,38,5947,27239.0,2.0,12.0,1.0
+378,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,30,0,8909.0,10.0,12.0,1.0
+379,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,30,0,8909.0,10.0,12.0,1.0
+380,Active,Male,Graduate,Other,Current,Yes,Yes,No,No,Yes,No,Need Improvement,Yes,54,5947,27239.0,5.0,15.0,5.4478
+381,Dormant,Male,Post Graduate,Other,Savings,No,No,No,No,No,No,No,No,54,1000,17800.0,4.0,2.0,5.4478
+382,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,47,5947,27239.0,1.0,2.0,2.0
+383,Active,Female,Graduate,Student,Savings,No,No,No,No,No,Yes,No,No,18,0,0.0,5.0,0.0,0.0
+384,Inactive,Male,Graduate,Salaried,Current,No,No,No,No,No,No,No,Yes,48,2200,22000.0,1.0,0.1,5.4478
+385,Active,Male,Graduate,Salaried,Savings,No,Yes,No,Yes,Yes,No,Yes,Yes,24,0,252.0,5.0,41.1346,1.0
+386,Inactive,Male,Graduate,Student,Savings,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,22,0,0.0,4.0,0.0,1.0
+387,Dormant,Male,Post Graduate,Salaried,Savings,No,Yes,No,No,No,No,Yes,Yes,36,500,103.0,23.7912,5.0,5.4478
+388,Active,Transgender,10th,Student,Savings,No,Yes,No,No,No,No,No,Yes,16,1000,-0.25,23.7912,1.0,1.0
+389,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,30,0,0.0,7.0,41.1346,1.0
+390,Active,Male,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,25,0,500.0,23.7912,20.0,1.0
+391,Active,Male,Post Graduate,Business,Savings,Yes,No,No,Yes,Yes,Yes,No,Yes,29,2000,27239.0,3.0,12.0,0.0
+392,Active,Male,Graduate,Business,Savings,Yes,No,Yes,Yes,Yes,No,No,Yes,31,1500,21000.0,23.7912,28.0,3.0
+393,Dormant,Male,Post Graduate,Business,Current,Yes,Yes,No,Yes,No,No,No,No,30,5947,10000.0,15.0,0.0,5.4478
+394,Inactive,Female,Graduate,Student,Current,No,No,No,Yes,No,No,No,Yes,26,5947,500.0,20.0,0.0,5.4478
+395,Dormant,Female,12th,Student,Savings,No,Yes,No,No,No,No,Yes,No,20,5947,300.0,5.0,0.0,5.4478
+396,Dormant,Female,12th,Student,No Frill ACcount,No,No,No,No,No,No,Yes,No,20,0,100.0,23.7912,0.0,5.4478
+397,Active,Female,Post Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,27,1876,21000.0,3.0,10.0,1.0
+398,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,No,Yes,28,1200,2100.0,2.0,19.0,1.0
+399,Dormant,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,No,No,26,1000,1000.0,23.7912,0.0,5.4478
+400,Active,Female,Graduate,Business,Current,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,28,5947,27239.0,11.0,37.0,1.0
+401,Dormant,Female,Graduate,Student,Savings,Yes,Yes,No,No,No,No,No,No,27,1000,10.0,21.0,2.0,5.4478
+402,Dormant,Female,Graduate,Student,Savings,No,Yes,No,No,No,No,No,No,21,1000,106.5,23.7912,2.0,5.4478
+403,Active,Female,Post Graduate,Other,Pension,No,No,Yes,No,No,No,Yes,Yes,27,1000,21000.0,23.7912,5.0,3.0
+404,Dormant,Female,Graduate,Student,Savings,Yes,Yes,No,No,No,No,No,No,26,5000,189.09,4.0,1.0,5.4478
+405,Dormant,Female,Graduate,Student,Savings,Yes,Yes,No,No,No,No,No,No,26,2000,70.87,17.0,2.0,5.4478
+406,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,Need Improvement,No,26,5000,1000.0,23.7912,14.0,5.4478
+407,Inactive,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,22,5947,5000.0,5.0,0.0,5.4478
+408,Inactive,Female,Graduate,Student,Savings,No,No,No,Yes,No,No,Need Improvement,Yes,27,1000,87.0,21.0,10.0,5.4478
+409,Active,Female,Post Graduate,Salaried,Salaried,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,27,5947,27239.0,10.0,6.0,1.0
+410,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,No,34,5947,5000.0,10.0,0.0,5.4478
+411,Active,Female,Doctrate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,No,Yes,Yes,50,5947,27239.0,10.0,5.0,1.0
+412,Dormant,Female,Post Graduate,Business,Salaried,No,Yes,No,Yes,No,No,No,No,35,5947,5000.0,5.0,0.0,5.4478
+413,Dormant,Female,10th,Other,No Frill ACcount,No,No,No,No,No,No,No,No,20,0,100.0,20.0,0.0,5.4478
+414,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,40,5947,10000.0,5.0,0.0,5.4478
+415,Dormant,Female,Post Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,No,No,29,5947,2000.0,20.0,0.0,5.4478
+416,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25,5947,5000.0,5.0,0.0,5.4478
+417,Dormant,Female,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,No,No,26,5947,20.0,12.0,2.0,5.4478
+418,Dormant,Female,Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,No,No,27,5947,10.23,13.0,2.0,5.4478
+419,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,No,No,30,5947,10000.0,10.0,0.0,5.4478
+420,Active,Female,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,35,5947,27239.0,3.0,0.0,4.0
+421,Inactive,Female,Doctrate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,No,No,30,5947,27239.0,5.0,0.0,5.4478
+422,Active,Female,Graduate,Other,Senior Citizen Account,Yes,No,Yes,Yes,No,No,Yes,Yes,54,5947,27239.0,4.0,4.0,2.0
+423,Dormant,Female,Doctrate,Salaried,Salaried,No,Yes,No,Yes,No,No,No,No,45,5947,1000.0,6.0,0.0,5.4478
+424,Inactive,Female,Post Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,35,5947,27239.0,15.0,0.0,5.4478
+425,Dormant,Female,Graduate,Other,Savings,No,No,No,Yes,No,No,No,No,27,2000,500.0,23.7912,0.0,5.4478
+426,Active,Female,Post Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,29,5947,27239.0,2.0,41.1346,1.0
+427,Active,Female,Graduate,Salaried,Savings,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,31,5000,27239.0,8.0,20.0,1.0
+428,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,20,1000,1000.0,10.0,12.0,1.0
+429,Active,Male,Graduate,Student,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,22,510,800.0,8.0,0.0,5.4478
+430,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,27,500,1004.0,1.0,30.0,1.0
+431,Active,Male,Graduate,Other,Savings,No,No,No,No,No,Yes,No,Yes,41,2000,500.0,23.7912,10.0,5.0
+432,Active,Male,Post Graduate,Business,Current,No,No,No,Yes,No,No,Yes,Yes,32,1200,1500.0,12.0,12.0,1.0
+433,Dormant,Male,Graduate,Business,Savings,No,Yes,No,No,No,No,Need Improvement,No,28,2000,1000.0,5.0,0.0,5.4478
+434,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,24,3000,1500.0,2.0,10.0,3.0
+435,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,No,No,No,35,1000,600.0,23.7912,10.0,5.4478
+436,Active,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,No,20,1000,7363.0,1.0,41.1346,3.0
+437,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,22,500,1200.0,1.0,0.0,5.4478
+438,Dormant,Female,10th,Other,Savings,No,No,No,No,No,No,Yes,No,54,1500,500.0,2.0,2.0,5.4478
+439,Active,Male,Graduate,Business,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,50,5947,27239.0,2.0,3.0,1.0
+440,Active,Male,12th,Salaried,Salaried,Yes,No,Yes,No,Yes,No,No,No,54,500,789.0,6.0,12.0,1.0
+441,Active,Male,12th,Salaried,Salaried,Yes,No,Yes,No,Yes,No,No,No,54,500,789.0,6.0,12.0,1.0
+442,Active,Male,12th,Salaried,Salaried,Yes,No,Yes,No,Yes,No,No,No,54,500,789.0,6.0,12.0,1.0
+443,Active,Female,10th,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,10,0,450.0,23.7912,12.0,1.0
+444,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,29,4000,2000.0,5.0,41.1346,2.0
+445,Inactive,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,No,Yes,22,1000,1200.0,3.0,41.1346,5.4478
+446,Active,Male,Post Graduate,Salaried,Savings,No,Yes,Yes,Yes,No,No,Yes,Yes,29,0,0.0,5.0,10.0,1.0
+447,Active,Female,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,10,500,27239.0,11.0,7.0,3.0
+448,Dormant,Male,Post Graduate,Salaried,Savings,No,No,No,Yes,No,No,No,No,30,100,0.0,0.0,1.0,-2.0
+449,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,23,5947,27239.0,23.7912,41.1346,1.0
+450,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,No,Yes,34,5000,1450.0,5.0,12.0,1.0
+451,Dormant,Female,Graduate,Other,Savings,Yes,Yes,No,Yes,No,No,Yes,No,54,5947,27239.0,6.0,2.0,5.4478
+452,Active,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,30,2000,27239.0,23.7912,26.0,3.0
+453,Active,Male,Post Graduate,Salaried,Savings,No,No,No,Yes,No,No,No,Yes,28,5947,16500.0,3.0,10.0,1.0
+454,Dormant,Male,Post Graduate,Salaried,Salaried,No,Yes,No,No,No,No,No,No,27,0,0.0,10.0,0.0,5.4478
+455,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,No,Yes,28,5000,25000.0,8.0,15.0,4.0
+456,Active,Female,Graduate,Salaried,Salaried,No,Yes,No,No,Yes,No,No,No,54,1000,27239.0,5.0,6.0,2.0
+457,Inactive,Female,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,25,0,2000.0,23.7912,0.0,5.4478
+458,Active,Female,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,34,0,10000.0,23.7912,12.0,1.0
+459,Active,Male,12th,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,27,768,10373.0,17.0,12.0,1.0
+460,Dormant,Female,12th,Student,Savings,No,No,Yes,Yes,Yes,No,Yes,No,23,1000,0.0,5.0,0.0,5.4478
+461,Dormant,Female,Graduate,Other,Savings,No,No,No,Yes,No,No,Yes,No,31,5947,200.0,20.0,2.0,5.4478
+462,Dormant,Male,Graduate,Business,Savings,No,Yes,No,No,No,No,No,No,39,500,200.0,5.0,10.0,5.4478
+463,Dormant,Female,10th,Other,Savings,Yes,No,No,No,No,No,Yes,No,40,1000,500.0,6.0,0.0,5.4478
+464,Active,Female,Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,3000,6000.0,10.0,25.0,1.0
+465,Active,Female,12th,Other,Pension,Yes,No,Yes,Yes,No,No,Yes,Yes,54,500,18393.0,18.0,12.0,1.0
+466,Active,Female,Post Graduate,Salaried,Salaried,Yes,No,No,No,No,Yes,No,Yes,29,500,600.0,5.0,12.0,5.4478
+467,Active,Female,Doctrate,Salaried,Savings,No,No,No,No,No,No,No,Yes,52,5947,25000.0,23.0,1.0,2.0
+468,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,23,5947,27239.0,1.0,28.0,1.0
+469,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,24,3000,2000.0,1.0,15.0,2.0
+470,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,30,500,4000.0,2.0,20.0,3.0
+471,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,No,Yes,54,5000,10000.0,1.0,12.0,1.0
+472,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,No,Yes,21,500,10000.0,2.0,12.0,1.0
+473,Active,Male,Post Graduate,Business,Savings,Yes,Yes,No,Yes,Yes,No,No,Yes,30,5000,27239.0,1.0,12.0,1.0
+474,Active,Male,Post Graduate,Salaried,Savings,Yes,No,Yes,No,Yes,No,Yes,Yes,24,3500,27239.0,15.0,2.0,1.0
+475,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,Need Improvement,Yes,23,1000,10.0,1.0,12.0,1.0
+476,Dormant,Male,Graduate,Student,Savings,Yes,Yes,No,No,No,No,Yes,No,22,0,890.0,20.0,5.0,5.4478
+477,Active,Male,10th,Business,Current,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,17,5947,27239.0,10.0,41.1346,1.0
+478,Inactive,Male,Doctrate,Salaried,Savings,Yes,No,No,Yes,No,Yes,No,Yes,35,2000,27239.0,1.0,0.1,5.4478
+479,Active,Male,10th,Other,Pension,No,No,No,No,No,No,Yes,Yes,54,0,150.0,8.0,3.0,3.0
+480,Dormant,Male,Post Graduate,Other,Salaried,Yes,No,No,No,No,No,No,No,26,3000,27239.0,12.0,2.0,5.4478
+481,Dormant,Male,Doctrate,Business,Pension,Yes,No,No,No,No,No,No,No,54,4000,27239.0,23.7912,2.0,5.4478
+482,Inactive,Male,Post Graduate,Other,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,54,5947,27239.0,21.0,5.0,5.4478
+483,Inactive,Male,Post Graduate,Business,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,36,5000,27239.0,23.7912,0.1,5.4478
+484,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,28,1800,12000.0,23.7912,12.0,1.0
+485,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,26,500,27239.0,5.0,3.0,1.0
+486,Inactive,Male,Graduate,Business,Savings,Yes,Yes,No,Yes,Yes,No,Yes,No,22,600,27239.0,20.0,0.1,5.4478
+487,Dormant,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,29,5947,27239.0,20.0,5.0,5.4478
+488,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,29,5947,27239.0,20.0,2.0,5.4478
+489,Inactive,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,23,500,5000.0,23.7912,0.1,5.4478
+490,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,31,5000,27239.0,23.7912,3.0,5.4478
+491,Inactive,Male,Post Graduate,Business,Current,Yes,No,No,No,Yes,No,Need Improvement,Yes,30,500,27239.0,10.0,0.1,5.4478
+492,Dormant,Male,Graduate,Business,Savings,Yes,Yes,Yes,Yes,Yes,No,No,Yes,34,4900,27239.0,23.0,5.0,5.4478
+493,Dormant,Male,Post Graduate,Business,Current,Yes,No,No,No,No,No,No,No,43,1000,27239.0,12.0,2.0,5.4478
+494,Active,Male,10th,Other,Senior Citizen Account,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,54,2000,27239.0,3.0,12.0,1.0
+495,Active,Female,12th,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,20,5947,12000.0,5.0,12.0,2.0
+496,Dormant,Male,Graduate,Student,Savings,No,Yes,No,Yes,Yes,No,Yes,No,27,500,0.0,7.0,0.0,5.4478
+497,Dormant,Male,Graduate,Student,Savings,No,Yes,No,Yes,Yes,No,Yes,No,27,500,0.0,7.0,0.0,5.4478
+498,Active,Female,Post Graduate,Salaried,Pension,Yes,No,Yes,No,No,No,Need Improvement,Yes,54,500,20382.0,12.0,12.0,1.0
+499,Dormant,Male,Graduate,Salaried,Savings,No,Yes,No,Yes,No,No,Yes,No,27,500,-90.0,23.7912,0.0,5.4478
+500,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,No,Yes,30,5000,10000.0,23.7912,41.1346,5.4478
+501,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,Yes,No,No,No,25,5947,0.0,3.0,0.0,5.4478
+502,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,27,0,27239.0,20.0,30.0,1.0
+503,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,18,5947,3.0,6.0,10.0,1.0
+504,Active,Male,Graduate,Salaried,Salaried,No,No,Yes,Yes,Yes,No,Yes,Yes,27,0,0.0,20.0,12.0,1.0
+505,Active,Female,12th,Student,Savings,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,20,5947,10000.0,23.7912,2.0,2.0
+506,Inactive,Female,12th,Student,Savings,Yes,No,No,No,No,No,Yes,No,19,500,500.0,2.0,0.1,5.4478
+507,Active,Male,Post Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,22,1000,750.0,23.7912,12.0,1.0
+508,Inactive,Male,Graduate,Student,Savings,No,Yes,No,No,No,No,Need Improvement,No,21,500,0.0,1.0,0.1,5.4478
+509,Active,Male,Post Graduate,Other,Current,Yes,Yes,No,No,No,No,Yes,Yes,23,1000,5000.0,2.0,12.0,1.0
+510,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,No,Yes,16,2000,2500.0,3.0,12.0,1.0
+511,Inactive,Male,Post Graduate,Business,Other,No,Yes,No,No,No,No,Need Improvement,No,24,1000,0.0,10.0,0.1,5.4478
+512,Inactive,Male,12th,Student,Savings,No,Yes,No,No,No,No,Yes,No,17,1500,0.0,3.0,0.1,5.4478
+513,Active,Male,Graduate,Business,Other,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,22,5000,25000.0,7.0,12.0,1.0
+514,Active,Male,Doctrate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,27,1000,25000.0,15.0,12.0,1.0
+515,Active,Male,Doctrate,Other,Other,Yes,No,No,Yes,Yes,No,Yes,Yes,30,1000,27239.0,2.0,12.0,1.0
+516,Dormant,Female,Post Graduate,Salaried,Savings,Yes,Yes,Yes,No,No,Yes,No,No,36,1500,10000.0,23.7912,15.0,5.4478
+517,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,24,2000,400.0,2.0,41.1346,1.0
+518,Inactive,Female,12th,Student,Savings,Yes,No,No,No,No,No,Yes,No,19,500,500.0,7.0,0.1,5.4478
+519,Active,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,23,500,451.0,20.0,10.0,2.0
+520,Active,Female,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,30,1000,5000.0,2.0,12.0,1.0
+521,Active,Female,12th,Student,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,19,100,2500.0,2.0,0.0,1.0
+522,Active,Male,Graduate,Student,Current,Yes,Yes,No,Yes,Yes,No,Yes,Yes,19,5947,27239.0,5.0,41.1346,1.0
+523,Dormant,Transgender,Graduate,Business,Savings,No,Yes,No,No,No,No,Yes,No,30,500,-300.0,23.7912,0.0,5.4478
+524,Active,Male,Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,54,5947,27239.0,4.0,12.0,1.0
+525,Active,Female,Graduate,Business,Current,Yes,No,No,No,No,No,Need Improvement,Yes,50,500,6000.0,5.0,12.0,1.0
+526,Dormant,Female,12th,Salaried,Savings,No,No,No,No,No,No,No,No,28,4000,4000.0,4.0,2.0,5.4478
+527,Inactive,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,No,20,500,1500.0,2.0,0.1,5.4478
+528,Dormant,Male,Post Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,Yes,No,23,0,-400.0,23.7912,0.0,5.4478
+529,Inactive,Female,Graduate,Salaried,Salaried,No,Yes,No,Yes,No,No,No,Yes,26,0,1000.0,23.7912,0.0,5.4478
+530,Active,Male,Graduate,Salaried,Current,Yes,Yes,No,Yes,No,No,Yes,Yes,24,0,27239.0,2.0,41.1346,1.0
+531,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,No,24,5947,27239.0,23.7912,0.0,5.4478
+532,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,No,24,5947,27239.0,23.7912,0.0,5.4478
+533,Active,Female,12th,Student,Current,Yes,No,No,Yes,Yes,No,Yes,Yes,19,500,5000.0,1.0,12.0,1.0
+534,Inactive,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Need Improvement,No,40,5947,5000.0,10.0,0.0,5.4478
+535,Dormant,Female,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,37,500,750.0,23.7912,12.0,5.4478
+536,Inactive,Female,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,20,2500,850.0,6.0,0.0,5.4478
+537,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,25,1000,20000.0,1.0,12.0,1.0
+538,Active,Male,Graduate,Salaried,Current,Yes,Yes,No,Yes,Yes,No,Yes,Yes,24,5947,27239.0,23.7912,20.0,1.0
+539,Inactive,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,38,5000,27239.0,23.7912,1.0,5.4478
+540,Active,Female,Post Graduate,Student,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,24,5947,20000.0,20.0,12.0,1.0
+541,Active,Male,Graduate,Salaried,Salaried,Yes,No,No,No,No,No,Need Improvement,Yes,26,5947,12000.0,8.0,12.0,2.0
+542,Dormant,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Yes,Yes,25,3000,1000.0,2.0,35.0,1.0
+543,Active,Male,Post Graduate,Business,Pension,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,54,5947,20000.0,4.0,41.1346,1.0
+544,Active,Male,12th,Student,Savings,No,No,No,Yes,No,No,Need Improvement,Yes,24,2000,1000.0,2.0,41.1346,1.0
+545,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Need Improvement,Yes,24,2000,1000.0,2.0,41.1346,1.0
+546,Active,Male,12th,Business,Savings,No,No,Yes,Yes,No,No,Yes,Yes,40,1000,27239.0,20.0,41.1346,1.0
+547,Dormant,Male,Graduate,Student,Savings,No,Yes,No,No,No,No,No,Yes,25,3000,1000.0,3.0,41.1346,2.0
+548,Dormant,Male,Graduate,Salaried,Salaried,No,Yes,No,No,No,No,Need Improvement,Yes,30,5947,2000.0,4.0,41.1346,1.0
+549,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,Yes,Yes,28,4000,3000.0,5.0,41.1346,1.0
+550,Active,Male,Graduate,Other,Savings,No,No,No,No,No,No,Yes,Yes,27,5000,2500.0,23.7912,41.1346,2.0
+551,Active,Male,Graduate,Salaried,Current,No,No,No,No,No,No,No,Yes,28,5000,2000.0,6.0,41.1346,1.0
+552,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,Yes,27,5000,500.0,4.0,41.1346,2.0
+553,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,Yes,27,5000,500.0,4.0,41.1346,2.0
+554,Active,Male,12th,Student,Savings,No,No,No,No,No,No,Yes,Yes,18,5000,4000.0,5.0,41.1346,1.0
+555,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Need Improvement,Yes,27,2500,250.0,1.0,35.0,2.0
+556,Active,Male,Graduate,Salaried,Salaried,No,No,No,No,No,No,No,Yes,29,4000,3000.0,5.0,12.0,3.0
+557,Active,Male,Graduate,Student,Current,No,No,No,No,No,No,No,Yes,30,4000,400.0,9.0,41.1346,3.0
+558,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,Need Improvement,Yes,27,4000,290.0,6.0,41.1346,1.0
+559,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,No,Yes,24,5947,250.0,0.5,41.1346,2.0
+560,Active,Male,12th,Student,Other,No,No,No,No,No,No,No,Yes,20,5947,8000.0,0.9,41.1346,1.0
+561,Active,Female,12th,Student,Savings,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,18,5000,0.0,1.0,12.0,2.0
+562,Active,Female,Post Graduate,Student,Current,Yes,No,No,Yes,No,Yes,No,Yes,25,5947,16250.0,3.0,12.0,5.4478
+563,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,27,500,1000.0,1.0,15.0,1.0
+564,Active,Male,Doctrate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,37,3000,27239.0,3.0,15.0,1.0
+565,Inactive,Male,Doctrate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,37,5947,27239.0,3.0,0.0,5.4478
+566,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,37,5000,27239.0,8.0,7.0,2.0
+567,Inactive,Female,10th,Student,Other,Yes,No,No,No,No,No,Need Improvement,No,14,500,4000.0,5.0,0.1,5.4478
+568,Dormant,Female,10th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,No,11,500,1000.0,5.0,0.001,5.4478
+569,Dormant,Female,Graduate,Other,Savings,Yes,No,No,No,No,No,Need Improvement,No,54,1000,10000.0,3.0,0.1,5.4478
+570,Active,Male,Graduate,Salaried,Pension,Yes,Yes,No,No,No,No,No,Yes,54,1000,27239.0,4.0,3.0,5.4478
+571,Dormant,Male,Post Graduate,Other,Salaried,Yes,Yes,No,Yes,No,No,Yes,No,44,1000,2000.0,23.7912,0.01,5.4478
+572,Inactive,Female,Graduate,Other,Senior Citizen Account,Yes,No,No,No,No,No,Yes,Yes,54,1000,20000.0,5.0,1.0,5.4478
+573,Inactive,Male,Doctrate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,38,1000,5000.0,23.7912,0.1,5.4478
+574,Active,Female,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,37,1000,27239.0,23.7912,3.0,3.0
+575,Active,Male,Doctrate,Other,Savings,Yes,Yes,No,Yes,Yes,No,No,Yes,38,1000,27239.0,4.0,1.0,5.4478
+576,Active,Male,Graduate,Student,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,24,1000,27239.0,3.0,3.0,2.0
+577,Dormant,Male,Graduate,Other,Senior Citizen Account,Yes,Yes,No,No,No,No,Yes,No,54,1000,2000.0,2.0,0.1,5.4478
+578,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,24,5947,100.0,2.0,10.0,1.0
+579,Inactive,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,No,Yes,20,1000,4500.0,23.7912,0.1,5.4478
+580,Active,Male,12th,Business,Savings,Yes,No,Yes,Yes,Yes,No,Yes,Yes,48,5000,27239.0,6.0,41.1346,1.0
+581,Active,Female,12th,Student,Savings,Yes,No,No,No,Yes,No,Yes,No,19,5000,12000.0,3.0,0.0,1.0
+582,Active,Female,Post Graduate,Salaried,Savings,No,No,No,Yes,No,No,Yes,Yes,34,5947,27239.0,10.0,4.0,1.0
+583,Active,Female,10th,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,35,1500,1500.0,3.0,12.0,1.0
+584,Active,Female,Post Graduate,Salaried,Salaried,No,No,No,No,No,No,No,Yes,33,1300,9899.0,8.0,12.0,1.0
+585,Active,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,29,5947,27239.0,23.7912,40.0,1.0
+586,Active,Male,10th,Other,Pension,No,No,No,No,No,No,Yes,Yes,54,1000,10000.0,23.7912,2.0,2.0
+587,Dormant,Female,12th,Salaried,Salaried,Yes,No,No,No,No,No,Need Improvement,No,28,1500,1500.0,7.0,2.0,5.4478
+588,Active,Male,Doctrate,Other,Other,No,No,No,No,No,No,Need Improvement,Yes,54,1400,27239.0,4.0,4.0,2.0
+589,Inactive,Female,Post Graduate,Salaried,Savings,Yes,No,No,No,No,No,No,Yes,43,4500,27239.0,6.0,0.1,5.4478
+590,Inactive,Female,Post Graduate,Salaried,Savings,Yes,No,No,No,No,No,No,Yes,43,4500,27239.0,6.0,0.1,5.4478
+591,Active,Female,12th,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,19,5947,27239.0,8.0,29.0,1.0
+592,Active,Male,Graduate,Salaried,Salaried,No,No,No,No,No,No,Need Improvement,Yes,24,2000,27239.0,4.0,12.0,3.0
+593,Dormant,Female,Graduate,Other,No Frill ACcount,No,No,No,No,No,No,Need Improvement,No,44,2000,2000.0,8.0,2.0,5.4478
+594,Dormant,Male,10th,Other,Savings,No,No,No,No,No,No,No,No,32,1000,1700.0,11.0,2.0,5.4478
+595,Dormant,Female,12th,Business,Current,No,No,No,No,No,No,No,No,32,5947,12033.0,2.0,2.0,5.4478
+596,Inactive,Female,12th,Business,Current,Yes,No,No,No,No,No,No,Yes,54,5947,18901.0,8.0,0.1,4.0
+597,Inactive,Female,Graduate,Student,No Frill ACcount,No,No,No,No,No,No,Need Improvement,Yes,22,1000,1800.0,20.0,0.1,5.4478
+598,Active,Female,Post Graduate,Other,Salaried,Yes,No,Yes,No,No,No,Need Improvement,Yes,44,500,27239.0,12.0,12.0,1.0
+599,Active,Female,Doctrate,Salaried,Senior Citizen Account,Yes,No,No,No,No,No,Yes,Yes,54,3000,27239.0,1.0,12.0,1.0
+600,Inactive,Female,10th,Other,Pension,No,No,No,No,No,No,Need Improvement,Yes,54,2000,27239.0,19.0,0.1,5.4478
+601,Dormant,Female,10th,Salaried,Savings,No,No,No,No,No,No,No,No,28,1000,1000.0,3.0,2.0,5.4478
+602,Inactive,Female,12th,Student,Savings,No,No,No,No,No,No,No,Yes,18,500,1500.0,2.0,0.1,5.4478
+603,Active,Female,Doctrate,Other,Pension,No,No,No,No,No,No,No,Yes,54,5000,27239.0,6.0,12.0,1.0
+604,Active,Female,Graduate,Business,Current,Yes,No,No,No,No,No,Need Improvement,No,45,500,6999.0,8.0,12.0,3.0
+605,Active,Female,12th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,No,19,200,500.0,5.0,4.0,5.4478
+606,Active,Female,10th,Other,No Frill ACcount,Yes,No,No,No,No,No,Yes,Yes,54,0,5000.0,5.0,1.0,5.4478
+607,Active,Male,10th,Other,Savings,Yes,Yes,Yes,No,No,No,Yes,Yes,54,1000,15000.0,5.0,4.0,1.0
+608,Active,Female,Graduate,Other,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,54,500,27239.0,1.0,8.0,2.0
+609,Dormant,Male,10th,Other,Senior Citizen Account,Yes,No,No,No,No,No,No,No,54,200,4000.0,3.0,0.1,5.4478
+610,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,42,500,27239.0,5.0,10.0,1.0
+611,Dormant,Male,12th,Other,Current,Yes,No,No,No,No,No,No,No,40,500,1000.0,4.0,0.01,5.4478
+612,Inactive,Female,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,40,500,5000.0,23.7912,1.0,5.4478
+613,Inactive,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,28,500,5000.0,5.0,4.0,5.4478
+614,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,42,500,27239.0,5.0,12.0,1.0
+615,Inactive,Female,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,40,500,5000.0,5.0,0.1,5.4478
+616,Inactive,Male,Graduate,Salaried,Current,Yes,Yes,No,Yes,No,No,Yes,Yes,24,500,2000.0,23.7912,0.1,5.4478
+617,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,54,500,1000.0,10.0,0.1,5.4478
+618,Active,Female,12th,Other,Other,Yes,No,No,No,No,No,Yes,Yes,35,500,10000.0,5.0,4.0,2.0
+619,Active,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,No,No,Need Improvement,Yes,25,5947,27239.0,2.0,20.0,1.0
+620,Dormant,Female,Graduate,Salaried,Savings,No,Yes,No,No,No,No,No,No,30,5000,5000.0,23.7912,2.0,5.4478
+621,Active,Male,10th,Other,No Frill ACcount,Yes,Yes,No,No,No,Yes,No,Yes,54,0,0.0,1.0,12.0,1.0
+622,Active,Transgender,12th,Student,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,18,500,10000.0,5.0,12.0,1.0
+623,Active,Female,Doctrate,Other,Pension,Yes,No,No,Yes,Yes,No,Yes,Yes,54,500,27239.0,10.0,12.0,1.0
+624,Inactive,Male,Post Graduate,Other,Savings,No,No,No,No,No,No,No,No,54,5947,0.0,1.0,0.1,5.4478
+625,Dormant,Transgender,12th,Salaried,Salaried,Yes,Yes,No,No,No,Yes,Yes,No,40,5947,4000.0,7.0,2.0,5.4478
+626,Active,Male,12th,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,18,1000,27239.0,7.0,15.0,1.0
+627,Active,Female,Graduate,Salaried,Savings,No,No,Yes,Yes,No,No,Yes,Yes,23,0,10000.0,10.0,10.0,3.0
+628,Active,Female,Graduate,Salaried,Savings,No,No,Yes,Yes,No,No,Yes,Yes,23,0,10000.0,10.0,10.0,3.0
+629,Active,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,21,1000,500.0,5.0,12.0,1.0
+630,Active,Male,Graduate,Business,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,30,500,5000.0,20.0,6.0,5.4478
+631,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,Yes,21,5000,10000.0,5.0,12.0,1.0
+632,Active,Male,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,18,5947,27239.0,2.0,12.0,2.0
+633,Active,Male,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,19,1000,750.0,1.0,41.1346,1.0
+634,Inactive,Male,Post Graduate,Salaried,Salaried,No,No,No,Yes,Yes,Yes,Yes,Yes,27,5947,27239.0,23.7912,0.0,5.4478
+635,Inactive,Female,Graduate,Student,Current,No,Yes,No,No,No,No,No,Yes,22,2000,500.0,4.0,0.1,5.4478
+636,Active,Male,Post Graduate,Salaried,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,27,5947,27239.0,2.0,41.1346,1.0
+637,Active,Female,12th,Student,Savings,No,Yes,No,Yes,Yes,No,Yes,Yes,20,5000,10000.0,1.0,2.0,5.4478
+638,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,22,500,3000.0,2.0,10.0,1.0
+639,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,22,500,3000.0,2.0,10.0,1.0
+640,Active,Female,Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,No,Yes,28,5947,800.0,5.0,41.1346,1.0
+641,Active,Female,12th,Student,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,20,0,5000.0,5.0,12.0,5.4478
+642,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,No,Yes,27,1000,500.0,10.0,10.0,5.4478
+643,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,27,5000,-0.55,15.0,2.0,5.4478
+644,Active,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Need Improvement,Yes,24,5947,15.0,15.0,41.1346,1.0
+645,Active,Male,Post Graduate,Student,Savings,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,22,2000,2000.0,1.0,41.1346,1.0
+646,Active,Female,12th,Student,Savings,No,No,No,No,Yes,No,Need Improvement,No,17,5000,5000.0,5.0,41.1346,3.0
+647,Active,Female,Graduate,Student,Savings,Yes,Yes,No,No,Yes,No,Yes,Yes,19,5947,27239.0,2.0,8.0,1.0
+648,Dormant,Female,Graduate,Salaried,Savings,No,Yes,Yes,Yes,No,Yes,Yes,No,45,1000,3550.0,4.0,1.0,5.4478
+649,Active,Female,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,45,2000,5012.0,4.0,12.0,1.0
+650,Active,Male,Graduate,Student,Savings,Yes,No,No,No,Yes,No,Need Improvement,Yes,19,500,700.0,5.0,5.0,1.0
+651,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,50,2000,10000.0,15.0,12.0,1.0
+652,Active,Male,Graduate,Student,Savings,No,No,No,Yes,Yes,No,No,Yes,21,2000,132.0,10.0,12.0,1.0
+653,Dormant,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Yes,No,22,100,0.0,5.0,2.0,5.4478
+654,Dormant,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Yes,No,22,100,0.0,5.0,2.0,5.4478
+655,Active,Male,12th,Other,Savings,No,No,No,Yes,No,No,Yes,Yes,24,2000,100.0,3.0,12.0,1.0
+656,Active,Male,Graduate,Business,Salaried,No,Yes,Yes,Yes,No,No,Yes,Yes,38,0,27239.0,1.0,4.0,2.0
+657,Dormant,Male,Graduate,Other,No Frill ACcount,Yes,No,Yes,No,No,Yes,Yes,No,54,500,1500.0,23.7912,12.0,5.4478
+658,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Need Improvement,Yes,24,2000,0.0,2.0,12.0,1.0
+659,Dormant,Female,Graduate,Student,Savings,Yes,No,No,No,No,Yes,No,Yes,18,5947,5000.0,6.0,41.1346,3.0
+660,Active,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Yes,Yes,21,500,300.0,15.0,12.0,1.0
+661,Active,Female,Post Graduate,Salaried,Salaried,No,No,No,No,No,No,Need Improvement,No,27,0,0.0,4.0,0.0,-2.0
+662,Inactive,Male,10th,Other,Savings,No,No,No,No,No,No,Need Improvement,Yes,45,5947,2000.0,1.0,0.1,5.4478
+663,Inactive,Female,Post Graduate,Business,Savings,No,Yes,Yes,No,No,No,No,Yes,19,0,27239.0,15.0,0.1,5.4478
+664,Active,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,No,Yes,Yes,No,19,5947,0.0,6.0,0.0,1.0
+665,Dormant,Transgender,Doctrate,Other,Pension,No,No,No,Yes,Yes,No,Need Improvement,No,54,5947,27239.0,23.7912,3.0,1.0
+666,Active,Male,Post Graduate,Business,Salaried,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,35,5947,27239.0,23.7912,40.0,1.0
+667,Active,Female,Post Graduate,Salaried,Salaried,No,No,No,No,No,No,No,No,26,1000,12500.0,2.0,12.0,1.0
+668,Active,Female,Graduate,Student,Savings,No,No,No,No,No,No,Yes,Yes,18,0,0.0,2.0,12.0,1.0
+669,Dormant,Male,12th,Student,Savings,No,No,No,Yes,No,No,No,No,20,1000,250.0,2.0,0.0,5.4478
+670,Active,Female,12th,Student,Savings,No,No,No,No,Yes,No,Need Improvement,Yes,18,3000,4000.0,2.0,2.0,2.0
+671,Active,Male,12th,Other,Current,No,No,No,No,No,Yes,Yes,Yes,50,1000,12000.0,23.7912,12.0,1.0
+672,Active,Male,12th,Student,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,21,0,250.0,1.0,12.0,1.0
+673,Active,Male,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,18,3500,27239.0,20.0,12.0,1.0
+674,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,21,500,27239.0,7.0,41.1346,2.0
+675,Active,Female,Graduate,Student,Savings,No,No,No,No,No,No,No,No,18,0,0.0,4.0,0.0,1.0
+676,Active,Female,12th,Student,Savings,Yes,No,Yes,No,Yes,No,Yes,Yes,19,5000,5000.0,1.0,12.0,1.0
+677,Dormant,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,No,36,0,0.0,2.0,2.0,5.4478
+678,Active,Male,12th,Student,Savings,No,No,No,Yes,No,No,Yes,No,19,0,100.0,1.0,12.0,1.0
+679,Active,Male,12th,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,19,1000,5000.0,5.0,12.0,1.0
+680,Active,Male,Graduate,Student,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,22,1000,27.0,10.0,3.0,3.0
+681,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,Yes,Yes,Yes,38,5947,5099.0,4.0,12.0,1.0
+682,Active,Female,Graduate,Student,Current,No,No,No,No,No,No,Yes,No,20,0,700.0,1.0,7.0,1.0
+683,Active,Male,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,19,5947,11000.0,4.0,12.0,1.0
+684,Active,Male,12th,Student,Savings,No,No,No,Yes,No,No,No,Yes,18,5947,27239.0,5.0,12.0,1.0
+685,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,25,1000,27239.0,2.0,5.0,4.0
+686,Inactive,Male,12th,Student,Savings,Yes,No,No,No,No,No,No,Yes,20,1000,0.0,5.0,0.1,-3.4478
+687,Dormant,Female,Graduate,Other,Savings,Yes,Yes,No,No,No,No,No,No,24,500,500.0,11.0,2.0,5.4478
+688,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,23,1500,14500.0,16.0,30.0,1.0
+689,Dormant,Female,Graduate,Business,Salaried,Yes,Yes,No,Yes,Yes,Yes,Yes,No,24,5947,27239.0,23.7912,15.0,1.0
+690,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,54,500,3000.0,5.0,12.0,1.0
+691,Active,Male,12th,Other,Pension,Yes,No,No,No,No,No,Yes,Yes,27,500,3000.0,2.0,3.0,2.0
+692,Dormant,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,No,No,No,No,No,30,1000,600.0,23.7912,10.0,5.4478
+693,Active,Male,10th,Other,Pension,Yes,No,No,No,No,No,Need Improvement,Yes,28,500,3000.0,2.0,2.0,3.0
+694,Active,Male,Post Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,Yes,Yes,25,1000,27239.0,15.0,3.0,3.0
+695,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,23,500,100.0,3.0,12.0,1.0
+696,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,No,Yes,21,0,5000.0,10.0,12.0,1.0
+697,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,23,500,2000.0,1.0,12.0,1.0
+698,Inactive,Male,10th,Other,Pension,No,Yes,Yes,No,No,Yes,Yes,No,54,0,0.0,15.0,0.1,5.4478
+699,Active,Male,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,23,0,27239.0,15.0,12.0,1.0
+700,Active,Male,Doctrate,Salaried,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,36,0,27239.0,23.7912,16.0,1.0
+701,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,No,No,No,Yes,Yes,35,1000,27239.0,4.0,2.0,1.0
+702,Active,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,23,5947,27239.0,15.0,21.0,1.0
+703,Active,Male,12th,Student,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,21,5947,7500.0,2.0,15.0,1.0
+704,Active,Female,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,37,1000,1000.0,5.0,12.0,1.0
+705,Active,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Yes,Yes,23,500,0.0,1.0,12.0,1.0
+706,Active,Female,Post Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,Yes,27,1230,154.0,7.0,12.0,1.0
+707,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,No,No,18,0,0.0,6.0,0.0,1.0
+708,Inactive,Female,Graduate,Salaried,Salaried,Yes,No,No,No,No,No,No,Yes,27,5947,27239.0,23.7912,0.0,5.4478
+709,Dormant,Male,10th,Other,Pension,No,No,No,No,No,No,Need Improvement,No,54,3000,0.0,23.7912,5.0,1.0
+710,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,38,500,1500.0,23.7912,2.0,5.4478
+711,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,No,No,No,Need Improvement,No,38,1400,1000.0,10.0,10.0,5.4478
+712,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,1000,27239.0,5.0,5.0,1.0
+713,Active,Female,10th,Business,Current,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,43,5947,27239.0,1.0,41.1346,1.0
+714,Active,Male,Graduate,Salaried,Current,Yes,Yes,Yes,Yes,No,No,Yes,Yes,27,0,27239.0,7.0,6.0,1.0
+715,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,No,27,1500,25000.0,23.7912,0.0,5.4478
+716,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,29,5000,27239.0,7.0,12.0,1.0
+717,Active,Female,Graduate,Not working,Savings,No,No,No,Yes,No,No,Yes,Yes,52,5947,27239.0,1.0,12.0,1.0
+718,Active,Female,Graduate,Not working,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,5947,27239.0,2.0,12.0,1.0
+719,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,5947,27239.0,5.0,12.0,1.0
+720,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,22,2000,11000.0,2.0,10.0,1.0
+721,Active,Male,Post Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,25,3000,27239.0,2.0,41.1346,1.0
+722,Active,Female,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,Yes,54,1000,27239.0,3.0,1.0,1.0
+723,Active,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,54,2000,27239.0,4.0,10.0,1.0
+724,Active,Female,12th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,20,0,2000.0,5.0,12.0,1.0
+725,Dormant,Female,Post Graduate,Not working,Savings,Yes,No,No,No,No,No,Yes,No,35,1000,900.0,5.0,10.0,5.4478
+726,Active,Male,Graduate,Other,Savings,Yes,Yes,No,No,Yes,No,Yes,Yes,54,5947,27239.0,20.0,20.0,5.4478
+727,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,18,1000,5000.0,5.0,12.0,1.0
+728,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,40,5947,27239.0,2.0,12.0,1.0
+729,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,23,2000,27239.0,1.0,12.0,1.0
+730,Active,Male,Graduate,Business,Savings,Yes,No,No,No,No,No,Yes,Yes,23,2000,27239.0,2.0,12.0,1.0
+731,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,25,1000,27239.0,5.0,12.0,1.0
+732,Active,Male,Graduate,Business,Savings,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,54,5000,27239.0,5.0,12.0,1.0
+733,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,23,5947,25000.0,1.0,12.0,1.0
+734,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,No,Yes,23,5000,300.0,1.0,10.0,5.4478
+735,Active,Male,Post Graduate,Salaried,Salaried,No,Yes,Yes,Yes,Yes,Yes,No,Yes,23,1000,500.0,5.0,12.0,1.0
+736,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,35,5000,27239.0,5.0,12.0,1.0
+737,Active,Male,12th,Business,Savings,Yes,Yes,No,Yes,No,No,No,Yes,40,2000,27239.0,15.0,12.0,1.0
+738,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,24,1000,27239.0,1.0,12.0,1.0
+739,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,20,1000,5000.0,5.0,12.0,1.0
+740,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,No,Yes,31,1000,27239.0,2.0,12.0,1.0
+741,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,28,2000,27239.0,0.0,12.0,1.0
+742,Active,Male,Graduate,Business,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,29,2000,27239.0,5.0,12.0,1.0
+743,Active,Male,Doctrate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,3000,27239.0,5.0,12.0,1.0
+744,Active,Male,Graduate,Business,Savings,Yes,Yes,No,No,No,No,Need Improvement,Yes,38,1000,27239.0,5.0,12.0,1.0
+745,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,No,Yes,No,Need Improvement,Yes,48,1000,27239.0,2.0,12.0,1.0
+746,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,No,Yes,No,Yes,Yes,28,1000,27239.0,5.0,12.0,1.0
+747,Active,Male,Graduate,Business,Savings,Yes,Yes,No,No,Yes,No,Need Improvement,Yes,32,500,27239.0,5.0,12.0,1.0
+748,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,No,Yes,22,5947,27239.0,2.0,12.0,1.0
+749,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,40,5947,27239.0,5.0,12.0,1.0
+750,Active,Male,10th,Other,Savings,Yes,No,No,No,No,No,No,Yes,54,600,500.0,5.0,12.0,3.0
+751,Dormant,Male,Post Graduate,Salaried,Savings,No,Yes,No,Yes,No,No,No,No,28,1000,50.0,18.0,1.0,5.4478
+752,Active,Female,12th,Other,Savings,No,No,No,No,No,No,Need Improvement,No,54,500,6888.0,6.0,12.0,3.0
+753,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,No,Yes,32,1000,3000.0,7.0,15.0,1.0
+754,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,26,1000,2000.0,2.0,12.0,1.0
+755,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,27,1000,2000.0,2.0,12.0,1.0
+756,Active,Female,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,26,2000,5000.0,2.0,12.0,1.0
+757,Active,Male,12th,Student,Savings,No,No,No,Yes,No,No,No,Yes,20,1000,0.0,1.0,41.1346,1.0
+758,Inactive,Male,Post Graduate,Student,Savings,No,Yes,No,Yes,No,No,No,No,25,1000,0.0,10.0,0.0,5.4478
+759,Active,Male,Doctrate,Business,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,30,5947,12000.0,23.7912,3.0,3.0
+760,Active,Male,10th,Salaried,Savings,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,26,1100,27239.0,2.0,22.0,1.0
+761,Active,Male,12th,Student,Savings,No,No,No,Yes,Yes,No,Need Improvement,No,21,2000,27239.0,4.0,12.0,1.0
+762,Active,Male,12th,Student,Savings,Yes,Yes,No,No,No,No,Yes,Yes,20,2000,5000.0,2.0,12.0,1.0
+763,Inactive,Female,Graduate,Salaried,Salaried,No,No,No,No,No,No,Need Improvement,Yes,25,5947,27239.0,9.0,0.1,5.4478
+764,Dormant,Female,Graduate,Student,Savings,No,Yes,No,No,Yes,Yes,No,No,22,100,21.0,10.0,2.0,5.4478
+765,Active,Male,12th,Student,Savings,No,No,No,Yes,No,No,Need Improvement,Yes,21,2100,14230.0,1.0,12.0,1.0
+766,Active,Female,12th,Student,Current,Yes,No,No,Yes,No,Yes,Yes,Yes,21,5947,19209.0,17.0,10.0,1.0
+767,Active,Female,12th,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,19,1000,27239.0,2.0,2.0,2.0
+768,Dormant,Male,Graduate,Other,Senior Citizen Account,Yes,Yes,No,No,No,No,Yes,No,54,1000,1000.0,10.0,15.0,5.4478
+769,Active,Male,Graduate,Student,Savings,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,39,500,500.0,4.0,41.1346,5.4478
+770,Active,Male,Graduate,Salaried,Senior Citizen Account,No,No,No,No,No,No,No,Yes,20,5947,27239.0,10.0,12.0,5.4478
+771,Active,Male,10th,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,18,500,20635.77,4.0,12.0,1.0
+772,Active,Male,10th,Student,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,18,500,20635.77,4.0,12.0,1.0
+773,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,20,2000,1995.0,10.0,20.0,1.0
+774,Active,Male,12th,Student,Savings,No,No,No,No,No,No,Yes,Yes,21,2000,10000.0,1.0,6.0,5.4478
+775,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,Yes,No,Yes,No,20,5947,27239.0,10.0,12.0,5.0
+776,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,5000,27239.0,6.0,12.0,1.0
+777,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,26,1000,27239.0,7.0,12.0,1.0
+778,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,27239.0,8.0,12.0,1.0
+779,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,5000,12000.0,6.0,12.0,1.0
+780,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,26,1000,4000.0,5.0,12.0,1.0
+781,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,5000,10000.0,8.0,12.0,1.0
+782,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,26,5000,27239.0,8.0,12.0,1.0
+783,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,27239.0,4.0,12.0,1.0
+784,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,27239.0,5.0,12.0,1.0
+785,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,27239.0,7.0,12.0,1.0
+786,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,26,1000,27239.0,5.0,12.0,1.0
+787,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,26,5000,3000.0,2.0,12.0,1.0
+788,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,5000.0,2.0,12.0,1.0
+789,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,5000.0,2.0,12.0,1.0
+790,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,5000,10000.0,2.0,12.0,1.0
+791,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,5000.0,4.0,12.0,1.0
+792,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,Yes,Yes,Yes,26,1000,5000.0,4.0,12.0,1.0
+793,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,4000.0,5.0,12.0,1.0
+794,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,6000.0,5.0,12.0,1.0
+795,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,4000.0,5.0,12.0,1.0
+796,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,1000,5890.0,2.0,12.0,1.0
+797,Active,Female,Post Graduate,Not working,Savings,Yes,No,No,No,No,No,Yes,Yes,50,0,5000.0,7.0,15.0,3.0
+798,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,16,500,5000.0,1.0,12.0,1.0
+799,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,25,1000,10000.0,1.0,12.0,1.0
+800,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,22,5947,27239.0,12.0,10.0,5.4478
+801,Active,Male,Graduate,Other,Savings,Yes,No,Yes,Yes,Yes,No,Yes,Yes,27,1000,27239.0,23.7912,41.1346,5.4478
+802,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,24,1000,2000.0,6.0,12.0,1.0
+803,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,23,5000,15000.0,10.0,41.1346,1.0
+804,Active,Female,Graduate,Student,Savings,No,No,Yes,Yes,No,No,Yes,No,18,0,0.0,4.0,0.0,1.0
+805,Inactive,Female,Doctrate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,35,5947,1000.0,5.0,0.0,5.4478
+806,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,24,500,13700.0,1.0,10.0,1.0
+807,Active,Female,Graduate,Business,Savings,No,Yes,No,Yes,No,No,No,Yes,25,1400,1200.0,2.0,12.0,1.0
+808,Active,Female,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,No,No,Yes,Yes,26,2000,27239.0,5.0,35.0,3.0
+809,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,No,No,No,No,Need Improvement,Yes,35,500,4000.0,7.0,0.0,1.0
+810,Active,Male,Graduate,Other,Savings,No,Yes,Yes,Yes,Yes,No,Yes,No,25,5947,2500.0,10.0,12.0,1.0
+811,Inactive,Male,10th,Other,Savings,Yes,Yes,No,Yes,No,No,No,Yes,45,1100,500.0,9.0,0.0,5.4478
+812,Active,Male,Graduate,Student,Savings,No,No,No,Yes,No,No,Yes,Yes,29,5947,27239.0,1.0,12.0,1.0
+813,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,29,5947,27239.0,5.0,12.0,1.0
+814,Active,Female,Post Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,45,5947,27239.0,10.0,12.0,1.0
+815,Dormant,Female,Doctrate,Business,Savings,No,Yes,Yes,Yes,Yes,Yes,Yes,No,34,5947,27239.0,18.0,2.0,5.4478
+816,Inactive,Male,Doctrate,Salaried,Savings,Yes,Yes,No,Yes,Yes,Yes,Yes,No,32,5947,27239.0,8.0,0.1,5.4478
+817,Active,Male,Post Graduate,Business,Salaried,Yes,Yes,No,Yes,Yes,Yes,Need Improvement,Yes,23,5947,27239.0,6.0,12.0,1.0
+818,Active,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,45,2000,27239.0,12.0,12.0,1.0
+819,Dormant,Male,Graduate,Salaried,Pension,Yes,Yes,No,Yes,No,Yes,Need Improvement,Yes,14,5947,27239.0,6.0,2.0,5.4478
+820,Dormant,Male,Post Graduate,Student,Savings,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,26,5947,27239.0,8.0,2.0,5.4478
+821,Dormant,Female,Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,45,5947,27239.0,6.0,2.0,5.4478
+822,Dormant,Female,Post Graduate,Student,Savings,Yes,Yes,Yes,No,Yes,Yes,Need Improvement,Yes,26,5947,27239.0,8.0,2.0,5.4478
+823,Dormant,Female,Graduate,Business,Current,Yes,No,No,Yes,No,No,No,Yes,54,5947,27239.0,5.0,2.0,5.4478
+824,Inactive,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,31,5947,27239.0,6.0,0.1,5.4478
+825,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,No,Yes,Yes,Need Improvement,Yes,37,5947,27239.0,7.0,2.0,5.4478
+826,Active,Male,Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,Yes,Yes,34,5947,27239.0,10.0,12.0,1.0
+827,Dormant,Female,Graduate,Student,Savings,No,Yes,No,Yes,Yes,Yes,Yes,Yes,32,5947,27239.0,6.0,2.0,5.4478
+828,Active,Female,Post Graduate,Salaried,Savings,Yes,Yes,Yes,No,Yes,Yes,Need Improvement,Yes,43,5947,27239.0,7.0,12.0,1.0
+829,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,32,5947,27239.0,8.0,2.0,5.4478
+830,Inactive,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,Yes,Need Improvement,Yes,23,5947,27239.0,4.0,0.1,5.4478
+831,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,Yes,Need Improvement,Yes,25,5947,27239.0,13.0,12.0,1.0
+832,Dormant,Male,Doctrate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,54,5947,27239.0,16.0,2.0,5.4478
+833,Dormant,Male,Post Graduate,Student,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,35,5947,27239.0,23.7912,2.0,5.4478
+834,Active,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,No,Yes,Need Improvement,Yes,54,5947,27239.0,8.0,12.0,1.0
+835,Inactive,Male,Doctrate,Business,Current,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,31,5947,27239.0,12.0,0.1,5.4478
+836,Inactive,Female,Post Graduate,Business,Senior Citizen Account,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,54,5947,27239.0,8.0,0.1,5.4478
+837,Dormant,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,34,5947,27239.0,8.0,2.0,5.4478
+838,Active,Female,10th,Other,No Frill ACcount,No,No,Yes,Yes,No,Yes,Yes,Yes,45,5947,27239.0,15.0,12.0,1.0
+839,Active,Male,Doctrate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,54,5947,27239.0,5.0,12.0,1.0
+840,Inactive,Female,Graduate,Student,Savings,Yes,Yes,Yes,Yes,Yes,No,Need Improvement,Yes,25,3000,27239.0,8.0,0.1,5.4478
+841,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,28,5947,27239.0,7.0,12.0,1.0
+842,Dormant,Male,Graduate,Business,No Frill ACcount,No,No,No,No,No,No,Need Improvement,No,34,5947,27239.0,13.0,2.0,5.4478
+843,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,No,42,5947,27239.0,21.0,2.0,5.4478
+844,Active,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,54,3000,27239.0,16.0,12.0,1.0
+845,Active,Male,Post Graduate,Salaried,Pension,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,54,5947,27239.0,6.0,12.0,1.0
+846,Dormant,Male,Post Graduate,Other,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,45,5947,27239.0,5.0,2.0,5.4478
+847,Dormant,Male,Graduate,Business,Current,No,Yes,Yes,Yes,Yes,Yes,Need Improvement,No,47,5947,27239.0,8.0,2.0,5.4478
+848,Inactive,Male,Graduate,Other,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,42,5947,27239.0,12.0,0.1,5.4478
+849,Active,Female,Doctrate,Business,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,Yes,31,5947,27239.0,23.7912,12.0,1.0
+850,Dormant,Male,Graduate,Business,Savings,Yes,Yes,No,Yes,No,Yes,Need Improvement,Yes,34,5947,27239.0,6.0,2.0,5.4478
+851,Active,Male,Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,35,5947,27239.0,5.0,12.0,1.0
+852,Inactive,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,5947,27239.0,7.0,0.1,5.4478
+853,Dormant,Male,Graduate,Student,Senior Citizen Account,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,21,5947,1995.0,15.0,2.0,5.4478
+854,Inactive,Female,Doctrate,Student,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,30,5947,27239.0,4.0,0.1,5.4478
+855,Active,Female,Graduate,Student,Savings,No,No,No,No,No,No,No,No,18,0,0.0,6.0,0.0,1.0
+856,Inactive,Male,Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,27,500,5984.0,15.0,0.0,5.4478
+857,Active,Male,Graduate,Other,Savings,No,Yes,No,Yes,No,No,Need Improvement,Yes,34,1000,10000.0,3.0,3.0,1.0
+858,Active,Male,Graduate,Business,Savings,Yes,Yes,No,Yes,No,No,No,Yes,34,1000,27239.0,3.0,12.0,1.0
+859,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Need Improvement,Yes,54,5947,27239.0,3.0,12.0,1.0
+860,Active,Male,12th,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,20,5947,27239.0,2.0,5.0,1.0
+861,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,47,700,950.0,23.7912,15.0,5.4478
+862,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,54,1000,2115.0,3.0,12.0,5.4478
+863,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,54,1000,3810.0,2.0,15.0,2.0
+864,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,26,2000,6000.0,13.0,10.0,1.0
+865,Active,Female,Graduate,Salaried,Salaried,No,Yes,Yes,Yes,Yes,No,Yes,Yes,28,5000,3000.0,4.0,12.0,1.0
+866,Active,Female,10th,Student,Savings,Yes,No,Yes,No,No,No,Need Improvement,Yes,20,1000,10000.0,1.0,12.0,1.0
+867,Active,Female,Graduate,Student,Current,No,No,No,No,No,No,No,No,19,2000,100.0,3.0,41.1346,3.0
+868,Dormant,Female,Graduate,Other,Senior Citizen Account,Yes,Yes,No,No,No,No,Need Improvement,No,54,5947,5000.0,5.0,0.0,5.4478
+869,Active,Male,Post Graduate,Other,Savings,Yes,No,No,Yes,No,No,Yes,Yes,23,1000,3000.0,3.0,12.0,2.0
+870,Dormant,Male,Post Graduate,Salaried,Savings,Yes,No,No,No,No,No,No,Yes,25,5000,27239.0,23.7912,2.0,5.4478
+871,Active,Male,Graduate,Student,Current,No,Yes,No,No,No,No,Yes,Yes,25,2000,500.0,2.0,41.1346,2.0
+872,Active,Female,12th,Business,Current,No,No,Yes,Yes,No,No,Yes,Yes,25,5947,5000.0,5.0,41.1346,1.0
+873,Active,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,25,5947,25000.0,5.0,12.0,1.0
+874,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,26,5947,25000.0,5.0,15.0,1.0
+875,Inactive,Male,10th,Student,Savings,Yes,No,No,No,No,No,Yes,No,18,500,2500.0,1.0,0.1,5.4478
+876,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,28,5947,27239.0,15.0,2.0,2.0
+877,Active,Male,Post Graduate,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,30,5947,27239.0,1.0,30.0,1.0
+878,Active,Male,12th,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,45,5947,27239.0,20.0,15.0,1.0
+879,Active,Male,12th,Other,Pension,Yes,No,No,No,No,No,Need Improvement,Yes,51,5947,27239.0,23.7912,2.0,3.0
+880,Active,Male,12th,Other,Pension,Yes,No,No,No,No,No,Need Improvement,Yes,51,5947,27239.0,23.7912,2.0,3.0
+881,Active,Male,Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,Yes,Yes,28,5947,27239.0,10.0,12.0,1.0
+882,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,30,5947,27239.0,1.0,12.0,1.0
+883,Inactive,Male,12th,Student,Savings,Yes,No,No,No,No,No,Yes,No,20,2500,15000.0,3.0,0.1,5.4478
+884,Active,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,27,5947,27239.0,5.0,12.0,1.0
+885,Dormant,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,No,22,5000,15000.0,5.0,2.0,5.4478
+886,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,35,5947,27239.0,15.0,5.0,1.0
+887,Dormant,Male,Post Graduate,Business,Savings,Yes,No,No,Yes,No,No,Need Improvement,No,31,5000,4000.0,10.0,2.0,5.4478
+888,Dormant,Male,Graduate,Salaried,Salaried,Yes,No,No,Yes,No,No,No,Yes,23,2000,27239.0,20.0,2.0,5.4478
+889,Dormant,Male,Graduate,Salaried,Current,No,Yes,No,No,No,No,Yes,No,24,0,0.0,23.7912,0.0,5.4478
+890,Active,Male,Graduate,Salaried,Savings,Yes,No,Yes,Yes,No,No,Yes,Yes,23,5947,22000.0,2.0,12.0,1.0
+891,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,19,1000,10000.0,2.0,12.0,1.0
+892,Active,Male,Post Graduate,Business,Savings,Yes,No,No,No,Yes,No,No,Yes,26,5947,27239.0,3.0,12.0,1.0
+893,Active,Male,Doctrate,Business,Senior Citizen Account,Yes,No,No,No,No,No,Need Improvement,Yes,24,0,12000.0,5.0,12.0,1.0
+894,Active,Male,Post Graduate,Other,Savings,Yes,No,Yes,No,Yes,No,Need Improvement,Yes,28,1000,27239.0,2.0,12.0,1.0
+895,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,20,0,15000.0,0.5,12.0,1.0
+896,Active,Male,12th,Student,Current,Yes,No,No,Yes,No,No,Yes,Yes,16,0,10000.0,4.0,12.0,1.0
+897,Active,Male,Post Graduate,Business,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,30,5947,27239.0,2.0,12.0,1.0
+898,Active,Male,Doctrate,Other,Pension,Yes,No,No,Yes,No,No,Need Improvement,Yes,54,1000,12000.0,3.0,12.0,1.0
+899,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,No,Yes,Yes,35,0,27239.0,6.0,12.0,1.0
+900,Inactive,Female,Post Graduate,Student,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,25,0,27239.0,12.0,0.0,5.4478
+901,Active,Female,Post Graduate,Student,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,25,2000,12000.0,6.0,10.0,1.0
+902,Inactive,Male,Graduate,Student,Savings,Yes,Yes,Yes,No,No,No,Need Improvement,No,29,3000,5000.0,14.0,0.1,5.4478
+903,Active,Male,Post Graduate,Business,Savings,Yes,No,Yes,Yes,No,No,No,Yes,21,4000,27000.0,21.0,12.0,1.0
+904,Active,Male,Post Graduate,Other,Salaried,Yes,Yes,Yes,Yes,No,No,No,Yes,28,4000,4000.0,23.7912,12.0,1.0
+905,Active,Male,Post Graduate,Business,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,27,5000,6000.0,19.0,12.0,1.0
+906,Inactive,Male,Graduate,Other,Savings,Yes,Yes,Yes,Yes,No,No,No,Yes,24,5000,20000.0,15.0,0.1,5.4478
+907,Dormant,Male,Post Graduate,Business,Savings,No,No,No,No,No,No,Need Improvement,No,28,3000,100.0,23.7912,2.0,5.4478
+908,Active,Male,Graduate,Business,Savings,Yes,Yes,No,Yes,No,No,No,Yes,25,3000,27239.0,7.0,12.0,1.0
+909,Active,Male,Graduate,Student,Savings,No,Yes,No,No,No,No,Need Improvement,Yes,26,3000,500.0,23.7912,12.0,1.0
+910,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,27,3000,27239.0,15.0,12.0,1.0
+911,Active,Male,Graduate,Business,Savings,Yes,No,No,No,Yes,No,No,Yes,28,3000,6000.0,20.0,12.0,1.0
+912,Active,Male,Graduate,Other,Other,Yes,Yes,Yes,Yes,No,Yes,No,Yes,25,3000,25000.0,15.0,12.0,1.0
+913,Active,Male,Graduate,Other,Savings,Yes,Yes,Yes,Yes,No,No,No,Yes,24,4000,7000.0,16.0,12.0,1.0
+914,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,No,No,Yes,Yes,29,0,27239.0,23.7912,12.0,1.0
+915,Active,Female,Graduate,Student,Savings,No,Yes,No,Yes,Yes,No,No,Yes,21,5000,15000.0,3.0,12.0,1.0
+916,Active,Male,12th,Student,Savings,No,No,No,No,No,No,No,Yes,19,500,600.0,5.0,12.0,3.0
+917,Dormant,Male,Graduate,Salaried,Salaried,No,Yes,No,No,No,No,Yes,No,47,1500,100.0,23.7912,10.0,5.4478
+918,Dormant,Male,Post Graduate,Salaried,Salaried,No,Yes,No,No,No,No,No,Yes,38,500,205.0,5.0,5.0,-1.0
+919,Dormant,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,No,No,38,500,630.0,23.7912,8.0,0.0
+920,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,No,No,Yes,Yes,No,38,700,700.0,23.7912,12.0,5.4478
+921,Dormant,Male,10th,Other,Savings,Yes,Yes,Yes,No,No,Yes,Yes,No,28,2000,548.0,11.0,4.0,5.4478
+922,Dormant,Female,Graduate,Salaried,Savings,No,Yes,No,Yes,No,No,Yes,No,21,500,0.0,16.0,2.0,5.4478
+923,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,35,1000,656.0,23.7912,15.0,5.4478
+924,Dormant,Female,12th,Student,Savings,No,No,No,Yes,No,No,Yes,No,18,500,0.0,2.0,5.0,5.4478
+925,Dormant,Male,Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,Yes,No,41,1500,852.0,15.0,5.0,5.4478
+926,Dormant,Male,Doctrate,Salaried,Salaried,No,Yes,No,No,No,No,No,No,39,1000,120.0,16.0,5.0,5.4478
+927,Active,Female,Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,Yes,Yes,54,2500,1700.0,23.7912,5.0,5.4478
+928,Dormant,Female,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,23,500,20.0,14.0,2.0,5.4478
+929,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,No,No,Yes,Yes,45,1000,750.0,18.0,15.0,1.0
+930,Dormant,Male,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,25,500,20.0,14.0,2.0,5.4478
+931,Dormant,Male,12th,Other,No Frill ACcount,No,No,No,No,No,Yes,Yes,No,47,500,15.0,2.0,2.0,5.4478
+932,Dormant,Female,Post Graduate,Business,Savings,No,Yes,Yes,No,No,No,Yes,No,38,500,0.0,23.7912,5.0,5.4478
+933,Active,Male,Graduate,Business,Current,Yes,No,Yes,Yes,No,No,Yes,Yes,36,1500,25000.0,15.0,15.0,1.0
+934,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,Yes,No,No,Yes,Yes,No,38,700,700.0,23.7912,12.0,5.4478
+935,Dormant,Male,10th,Other,Savings,Yes,Yes,Yes,No,No,Yes,Yes,No,28,2000,548.0,11.0,4.0,5.4478
+936,Dormant,Female,Graduate,Salaried,Savings,No,Yes,No,Yes,No,No,Yes,No,21,500,0.0,16.0,2.0,5.4478
+937,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,35,1000,656.0,23.7912,15.0,5.4478
+938,Dormant,Female,12th,Student,Savings,No,No,No,Yes,No,No,Yes,No,18,500,0.0,2.0,5.0,5.4478
+939,Dormant,Male,Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,Yes,No,41,1500,852.0,15.0,5.0,5.4478
+940,Dormant,Male,Doctrate,Salaried,Salaried,No,Yes,No,No,No,No,No,No,39,1000,120.0,16.0,5.0,5.4478
+941,Dormant,Male,10th,Other,Savings,Yes,Yes,Yes,No,No,Yes,Yes,No,28,2000,548.0,11.0,4.0,5.4478
+942,Dormant,Female,Graduate,Salaried,Savings,No,Yes,No,Yes,No,No,Yes,No,21,500,0.0,16.0,2.0,5.4478
+943,Dormant,Female,12th,Other,Savings,Yes,Yes,No,No,No,No,No,No,52,600,1000.0,5.0,2.0,5.4478
+944,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,No,35,1000,656.0,23.7912,15.0,5.4478
+945,Dormant,Female,12th,Student,Savings,No,No,No,Yes,No,No,Yes,No,18,500,0.0,2.0,5.0,5.4478
+946,Dormant,Male,Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,Yes,No,41,1500,852.0,15.0,5.0,5.4478
+947,Dormant,Male,Doctrate,Salaried,Salaried,No,Yes,No,No,No,No,No,No,39,1000,120.0,16.0,5.0,5.4478
+948,Dormant,Female,Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,27,600,750.0,23.7912,5.0,5.4478
+949,Dormant,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,Yes,No,38,600,1000.0,11.0,15.0,5.4478
+950,Dormant,Male,Doctrate,Salaried,Salaried,No,Yes,No,No,No,Yes,No,No,50,700,250.0,15.0,2.0,5.4478
+951,Dormant,Male,Doctrate,Salaried,Savings,Yes,Yes,No,No,No,Yes,Yes,No,45,1000,1000.0,23.7912,2.0,-3.0
+952,Dormant,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,No,No,Yes,No,No,41,500,2500.0,23.7912,2.0,5.4478
+953,Dormant,Male,Post Graduate,Business,Current,Yes,Yes,Yes,No,No,No,No,No,27,5947,1000.0,4.0,3.0,5.4478
+954,Dormant,Male,Graduate,Salaried,Senior Citizen Account,Yes,Yes,No,No,No,No,Yes,No,54,1000,800.0,5.0,2.0,5.4478
+955,Dormant,Female,Doctrate,Salaried,Salaried,Yes,No,Yes,No,No,Yes,Yes,No,38,1500,826.0,23.7912,2.0,5.4478
+956,Dormant,Transgender,Post Graduate,Business,Savings,Yes,Yes,No,No,No,Yes,No,No,29,1000,756.0,5.0,5.0,5.4478
+957,Dormant,Female,Doctrate,Salaried,Salaried,Yes,Yes,No,No,No,No,Yes,No,35,1500,900.0,7.0,2.0,5.4478
+958,Dormant,Transgender,10th,Business,Savings,No,Yes,Yes,No,No,No,No,No,32,1500,152.0,11.0,5.0,5.4478
+959,Active,Male,Graduate,Student,Savings,No,Yes,No,Yes,No,No,Need Improvement,No,22,500,5000.0,23.7912,41.1346,1.0
+960,Active,Female,Doctrate,Salaried,Salaried,Yes,Yes,No,Yes,No,Yes,Need Improvement,Yes,32,3000,27239.0,5.0,12.0,5.4478
+961,Active,Female,12th,Student,Savings,No,No,No,No,No,No,No,No,18,0,0.0,5.0,0.0,1.0
+962,Active,Female,10th,Salaried,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,20,1000,20000.0,23.7912,9.0,1.0
+963,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,20,2000,15000.0,5.0,12.0,1.0
+964,Active,Male,Graduate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,No,Yes,Yes,26,2000,15000.0,3.0,30.0,1.0
+965,Dormant,Male,Graduate,Student,Savings,No,Yes,No,No,No,No,No,No,20,0,16.0,13.0,0.0,5.4478
+966,Active,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Need Improvement,Yes,37,1000,17000.0,1.0,3.0,4.0
+967,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,Yes,No,Yes,Yes,21,5947,25000.0,3.0,12.0,1.0
+968,Active,Transgender,Post Graduate,Business,Pension,Yes,Yes,No,Yes,Yes,No,Yes,Yes,34,3280,7823.0,23.7912,41.1346,5.4478
+969,Active,Male,Post Graduate,Salaried,Savings,Yes,No,Yes,Yes,Yes,No,Yes,Yes,32,5947,10000.0,2.0,41.1346,1.0
+970,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,Yes,Yes,No,Yes,No,32,5947,10000.0,2.0,40.0,1.0
+971,Active,Female,Post Graduate,Student,Savings,Yes,No,Yes,No,No,No,Yes,No,22,500,5000.0,5.0,12.0,1.0
+972,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,24,500,1400.0,4.0,41.1346,1.0
+973,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,21,500,3500.0,23.7912,12.0,1.0
+974,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,54,2000,6000.0,6.0,0.0,1.0
+975,Active,Male,Graduate,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,54,3555,6000.0,5.0,5.0,1.0
+976,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,23,1000,2000.0,2.0,30.0,1.0
+977,Active,Male,12th,Other,Savings,No,No,No,Yes,No,No,No,Yes,26,1000,37.0,23.7912,20.0,3.0
+978,Dormant,Male,Graduate,Business,Savings,No,Yes,Yes,No,No,Yes,No,No,54,5947,100.0,20.0,0.0,5.4478
+979,Dormant,Male,Graduate,Business,Savings,No,Yes,Yes,No,No,Yes,No,No,54,5947,0.0,10.0,2.0,5.4478
+980,Active,Female,12th,Other,Pension,No,No,Yes,No,No,No,Yes,Yes,54,0,100.0,2.5,12.0,1.0
+981,Dormant,Male,12th,Salaried,Savings,Yes,Yes,No,No,No,No,Yes,No,54,500,8000.0,23.7912,5.0,5.4478
+982,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,No,21,500,1000.0,1.0,12.0,1.0
+983,Active,Male,Post Graduate,Salaried,Savings,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,25,2200,2300.0,0.0,4.0,-2.0
+984,Dormant,Male,Graduate,Student,Savings,Yes,Yes,No,No,No,No,Yes,No,23,1000,0.0,6.0,0.0,5.4478
+985,Active,Male,12th,Student,Savings,Yes,No,No,No,Yes,No,Yes,Yes,20,3000,125.0,4.0,2.0,1.0
+986,Active,Male,Post Graduate,Business,Savings,Yes,No,No,No,No,No,No,No,34,600,27239.0,6.0,12.0,5.4478
+987,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,24,5947,7200.0,4.0,12.0,1.0
+988,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,Yes,No,Yes,26,500,10000.0,1.0,12.0,5.4478
+989,Active,Male,Post Graduate,Salaried,Salaried,No,No,No,Yes,Yes,No,Yes,Yes,35,1000,520.0,5.0,12.0,1.0
+990,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,No,Yes,17,580,600.0,5.0,0.0,1.0
+991,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,No,Yes,24,1000,2500.0,4.0,3.0,-2.0
+992,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Yes,No,21,0,0.0,5.0,12.0,1.0
+993,Dormant,Male,12th,Salaried,Savings,No,Yes,No,No,No,Yes,Need Improvement,Yes,30,500,0.0,23.7912,10.0,3.0
+994,Active,Male,12th,Business,Savings,Yes,Yes,No,No,Yes,No,Yes,Yes,34,5000,27239.0,10.0,12.0,1.0
+995,Dormant,Male,12th,Business,Savings,Yes,Yes,No,No,No,No,Yes,No,38,2000,700.0,1.0,12.0,5.4478
+996,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Need Improvement,Yes,20,0,2000.0,23.7912,12.0,1.0
+997,Active,Male,Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,Yes,Yes,24,2000,3000.0,1.0,30.0,1.0
+998,Active,Male,12th,Student,Savings,Yes,No,No,No,No,No,Need Improvement,No,19,5947,0.0,1.0,12.0,3.0
+999,Active,Female,10th,Other,Pension,Yes,Yes,No,Yes,No,No,Yes,Yes,54,500,3000.0,3.0,8.0,1.0
+1000,Dormant,Female,12th,Salaried,Savings,No,No,Yes,Yes,No,Yes,No,Yes,49,5947,0.0,23.7912,41.1346,1.0
+1001,Active,Female,Graduate,Salaried,Savings,Yes,Yes,No,Yes,Yes,No,Yes,Yes,37,0,27239.0,2.0,10.0,1.0
+1002,Dormant,Female,Graduate,Other,Savings,Yes,No,No,No,No,No,No,No,27,500,0.0,8.0,2.0,5.4478
+1003,Active,Female,Doctrate,Salaried,Salaried,Yes,Yes,No,Yes,No,No,Yes,Yes,29,0,5557.0,1.0,41.1346,1.0
+1004,Active,Male,12th,Student,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,19,0,0.0,2.0,20.0,1.0
+1005,Active,Female,12th,Student,Current,Yes,No,No,No,Yes,No,Yes,Yes,19,1000,2000.0,3.0,4.0,1.0
+1006,Active,Transgender,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,23,500,2000.0,5.0,40.0,2.0
+1007,Active,Transgender,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,23,500,2000.0,5.0,40.0,2.0
+1008,Active,Male,Graduate,Salaried,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,20,5947,12000.0,5.0,12.0,1.0
+1009,Active,Male,Post Graduate,Salaried,Savings,Yes,Yes,No,No,No,No,Need Improvement,Yes,32,5000,5000.0,8.0,3.0,3.0
+1010,Active,Female,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,18,2000,2116.0,5.0,41.1346,1.0
+1011,Active,Female,Graduate,Business,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,25,5947,27239.0,23.7912,3.0,5.4478
+1012,Active,Female,Post Graduate,Business,Current,Yes,Yes,No,Yes,No,No,Yes,Yes,27,5947,27239.0,15.0,41.1346,1.0
+1013,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,No,Yes,Yes,No,No,Yes,28,5947,27239.0,5.0,12.0,1.0
+1014,Active,Male,Post Graduate,Salaried,Savings,Yes,No,No,Yes,No,No,Yes,Yes,26,1540,25000.0,4.0,12.0,1.0
+1015,Active,Male,12th,Business,Salaried,Yes,No,No,Yes,No,No,Need Improvement,Yes,35,500,15000.0,8.0,41.1346,1.0
+1016,Active,Male,Graduate,Other,Senior Citizen Account,No,No,No,No,No,Yes,Need Improvement,Yes,54,5947,27239.0,9.0,12.0,1.0
+1017,Dormant,Female,Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Need Improvement,No,27,1000,17.0,15.0,3.0,5.4478
+1018,Active,Female,Doctrate,Salaried,Salaried,Yes,No,No,Yes,Yes,No,Yes,Yes,30,5947,27239.0,4.0,5.0,1.0
+1019,Dormant,Transgender,12th,Student,Savings,No,Yes,No,Yes,No,No,Yes,No,19,500,0.0,23.7912,12.0,5.4478
+1020,Active,Male,Graduate,Salaried,Current,Yes,No,No,No,No,No,Need Improvement,Yes,28,5947,10000.0,18.0,12.0,1.0
+1021,Active,Male,Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,Yes,Yes,32,5947,27239.0,5.0,12.0,1.0
+1022,Inactive,Female,Post Graduate,Salaried,Senior Citizen Account,No,Yes,No,No,No,No,No,No,54,500,100.0,2.0,3.0,5.4478
+1023,Active,Female,Doctrate,Other,Senior Citizen Account,No,Yes,Yes,No,No,Yes,Yes,Yes,54,5947,27239.0,9.0,12.0,1.0
+1024,Active,Male,Doctrate,Salaried,Salaried,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,5947,23500.0,1.0,12.0,1.0
+1025,Active,Male,Graduate,Student,Salaried,No,No,No,Yes,No,No,No,Yes,27,3000,2000.0,2.0,12.0,1.0
+1026,Inactive,Male,Doctrate,Business,Salaried,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,40,1000,27239.0,23.0,0.1,5.4478
+1027,Dormant,Transgender,10th,Other,No Frill ACcount,No,No,No,No,No,No,No,No,25,0,50.0,10.0,0.0,5.4478
+1028,Active,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,22,5947,27239.0,10.0,12.0,1.0
+1029,Active,Male,Doctrate,Student,Current,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,5947,5689.0,15.0,12.0,1.0
+1030,Active,Male,Doctrate,Student,Current,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,5947,5689.0,15.0,12.0,1.0
+1031,Inactive,Female,Doctrate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,No,No,28,1000,10.0,6.0,5.0,5.4478
+1032,Active,Male,Graduate,Student,Current,No,No,No,No,No,No,Yes,Yes,28,2000,1000.0,2.0,12.0,3.0
+1033,Active,Male,10th,Other,No Frill ACcount,No,No,No,No,No,No,Need Improvement,No,28,5947,158.0,1.0,12.0,1.0
+1034,Active,Male,Doctrate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,35,5947,27239.0,23.7912,41.1346,5.4478
+1035,Dormant,Male,Graduate,Student,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,40,3000,4000.0,23.7912,3.0,5.4478
+1036,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,Need Improvement,No,26,1000,1000.0,23.7912,3.0,5.4478
+1037,Dormant,Male,12th,Other,No Frill ACcount,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,50,1000,5000.0,23.7912,2.0,5.4478
+1038,Active,Male,Graduate,Business,Salaried,Yes,No,No,No,No,No,Need Improvement,Yes,28,1567,10000.0,1.0,12.0,1.0
+1039,Dormant,Female,Post Graduate,Salaried,Salaried,No,No,No,No,No,No,No,No,26,1000,122.0,2.0,2.0,5.4478
+1040,Dormant,Male,12th,Other,Current,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,34,3000,27239.0,23.0,2.0,5.4478
+1041,Active,Male,Graduate,Business,Current,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,5947,12688.0,18.0,12.0,1.0
+1042,Active,Male,Graduate,Business,Current,Yes,No,No,Yes,No,No,Need Improvement,Yes,28,5947,12688.0,18.0,12.0,1.0
+1043,Inactive,Female,Post Graduate,Salaried,Salaried,No,Yes,Yes,No,No,No,Need Improvement,Yes,26,1000,33.0,22.0,5.0,5.4478
+1044,Active,Female,10th,Other,Savings,Yes,Yes,No,Yes,No,No,Yes,Yes,54,3000,2000.0,20.0,41.1346,5.0
+1045,Active,Male,Doctrate,Salaried,Salaried,Yes,No,No,No,No,No,Need Improvement,Yes,28,5947,16800.0,12.0,12.0,1.0
+1046,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,Yes,No,No,No,No,Need Improvement,No,26,4000,1000.0,22.0,3.0,5.4478
+1047,Dormant,Male,Post Graduate,Salaried,Pension,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,54,4000,27239.0,23.7912,41.1346,5.4478
+1048,Dormant,Male,12th,Other,No Frill ACcount,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,45,200,27239.0,23.7912,2.0,5.4478
+1049,Active,Female,Post Graduate,Business,Current,Yes,Yes,No,Yes,Yes,No,Yes,Yes,28,5947,27239.0,10.0,24.0,1.0
+1050,Dormant,Female,Graduate,Salaried,Salaried,Yes,No,No,No,No,No,No,No,28,1000,100.0,22.0,1.0,5.4478
+1051,Dormant,Male,12th,Other,Senior Citizen Account,Yes,Yes,Yes,Yes,Yes,No,No,Yes,54,4000,27239.0,23.7912,2.0,5.4478
+1052,Active,Male,Graduate,Student,Savings,No,No,No,No,No,No,No,Yes,28,2000,2000.0,8.0,12.0,2.0
+1053,Dormant,Female,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,No,No,No,No,No,28,1000,21.0,22.0,2.0,5.4478
+1054,Dormant,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,29,500,5000.0,23.7912,2.0,5.4478
+1055,Inactive,Male,10th,Business,Savings,No,Yes,No,No,No,No,Yes,No,54,1500,0.0,23.7912,41.1346,5.4478
+1056,Active,Male,Graduate,Student,Current,No,No,No,No,No,No,No,Yes,33,4000,2000.0,2.0,12.0,5.4478
+1057,Inactive,Male,Post Graduate,Salaried,Current,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,34,300,3000.0,23.7912,0.1,5.4478
+1058,Inactive,Male,Graduate,Salaried,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,37,400,4000.0,23.7912,0.1,5.4478
+1059,Inactive,Male,10th,Other,No Frill ACcount,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,45,500,5000.0,23.7912,0.1,5.4478
+1060,Inactive,Male,Graduate,Student,Salaried,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,45,5000,27239.0,23.7912,0.1,5.4478
+1061,Active,Male,Graduate,Student,Current,No,No,No,No,No,No,No,Yes,28,2000,20.0,8.0,12.0,2.0
+1062,Active,Male,Graduate,Student,Savings,Yes,No,No,No,No,No,Yes,Yes,30,500,4000.0,10.0,25.0,3.0
+1063,Inactive,Male,Graduate,Student,Savings,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,54,500,5000.0,23.7912,0.1,5.4478
+1064,Active,Male,Post Graduate,Salaried,Salaried,Yes,No,Yes,Yes,Yes,No,Yes,Yes,25,5947,27239.0,23.7912,41.1346,5.4478
+1065,Active,Male,Post Graduate,Business,Savings,Yes,No,Yes,Yes,No,No,Need Improvement,Yes,34,500,1500.0,11.0,41.1346,1.0
+1066,Dormant,Male,Graduate,Business,Savings,No,Yes,No,Yes,No,No,No,No,34,1000,0.0,5.0,0.0,5.4478
+1067,Dormant,Male,Doctrate,Salaried,Savings,No,Yes,No,Yes,No,No,Yes,No,31,5947,0.0,4.0,8.0,5.4478
+1068,Inactive,Female,10th,Other,Pension,No,No,Yes,No,No,No,Yes,Yes,54,0,3000.0,5.0,3.0,5.4478
+1069,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,No,No,No,Yes,Yes,53,0,27239.0,5.0,8.0,1.0
+1070,Active,Male,10th,Other,Savings,Yes,Yes,No,No,No,No,Yes,Yes,46,4000,800.0,8.0,6.0,1.0
+1071,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,18,5947,4000.0,6.0,41.1346,1.0
+1072,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,No,Yes,Yes,22,0,10000.0,1.0,12.0,1.0
+1073,Active,Male,Post Graduate,Business,Savings,Yes,Yes,Yes,Yes,No,No,Need Improvement,Yes,23,5947,27239.0,4.0,12.0,1.0
+1074,Active,Male,Post Graduate,Other,Current,Yes,No,Yes,Yes,No,No,No,Yes,40,5947,27239.0,7.0,12.0,1.0
+1075,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,Yes,Yes,Yes,No,No,Yes,27,0,27239.0,5.0,12.0,1.0
+1076,Active,Male,Doctrate,Business,Current,Yes,No,Yes,No,Yes,No,Yes,Yes,36,5947,27239.0,4.3,12.0,1.0
+1077,Active,Male,Graduate,Salaried,Savings,Yes,No,Yes,Yes,Yes,No,Yes,Yes,21,5947,23000.0,2.0,12.0,1.0
+1078,Active,Male,Post Graduate,Salaried,Salaried,Yes,Yes,No,Yes,Yes,Yes,No,Yes,23,5947,12000.0,3.0,12.0,1.0
+1079,Active,Male,Graduate,Business,Savings,Yes,No,Yes,Yes,Yes,No,Need Improvement,Yes,25,5947,27239.0,5.0,12.0,1.0
+1080,Active,Male,12th,Business,Current,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,28,5947,27239.0,6.0,12.0,1.0
+1081,Active,Male,Post Graduate,Other,Current,Yes,No,No,Yes,Yes,No,Need Improvement,Yes,31,5000,27000.0,1.0,12.0,1.0
+1082,Inactive,Male,Graduate,Business,Savings,No,Yes,No,No,No,No,No,Yes,34,1000,0.0,4.0,4.0,5.4478
+1083,Active,Male,Post Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,16,500,10000.0,23.7912,15.0,1.0
+1084,Active,Male,10th,Salaried,Salaried,Yes,Yes,No,No,Yes,No,Yes,Yes,54,0,27239.0,1.0,9.0,1.0
+1085,Active,Female,Graduate,Student,Savings,Yes,No,No,No,No,No,Need Improvement,Yes,25,500,27239.0,7.0,40.0,1.0
+1086,Active,Male,Graduate,Student,Savings,Yes,No,No,Yes,No,No,Yes,Yes,23,500,1000.0,5.0,41.1346,1.0
+1087,Active,Female,Graduate,Other,Other,Yes,No,No,No,No,No,Yes,Yes,54,1000,27239.0,2.0,9.0,5.4478
+1088,Active,Male,Doctrate,Salaried,Pension,Yes,Yes,Yes,Yes,No,No,Yes,Yes,54,0,9000.0,4.0,40.0,1.0
+1089,Dormant,Male,Graduate,Business,Savings,No,Yes,No,No,No,No,No,No,30,5947,0.0,1.0,2.0,5.4478
+1090,Inactive,Male,Graduate,Salaried,Savings,Yes,No,No,No,No,No,Yes,Yes,2,5947,10745.0,1.0,1.0,5.4478

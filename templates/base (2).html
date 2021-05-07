@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+	    <meta charset="UTF-8">
+	    <meta name = "viewport" content = "width = device-width, initial-scale = 1, shrink-to-fit = no">
+	    <meta http-equiv = "X-UA-Compatible" content = "IE=edge">
+		<link rel = stylesheet type = text/css href = "{{url_for('static', filename = 'style.css')}}">
+		<link rel = stylesheet type = text/css href = "{{url_for('static', filename = 'css/bootstrap.min.css')}}" >
+		<title>{% block title %} Dormant Account Detection {% endblock %}</title>
+	</head>
+<!--background = "{{ url_for('static', filename='background.jpg') }}",-->
+	<body  style = "height: 800px; background-color: #1A67AB">
+	
+		<header class = "blog-header fixed-top text-white", style = "background-color: #12CFFE;">
+		    <div class = "row flex-nowrap justify-content-between align-items-center" style = " height: 145px;">
+		    	<div class = "col-12 pt-1 text-center">
+
+					<img src = 'https://innodatatics.com/images/excelr-logo-small.png', align = 'center'>
+					<br>
+					<h2>DORMANT ACCOUNT DETECTION</h2>
+				</div>
+			</div>
+		</header>
+		
+		<main class = "container text-white" style = " height: 1060px;">
+			<br><br><br><br><br><br>
+		  	<div class = "row flex-nowrap justify-content-between align-items-center">
+				<div class = "col-md-12">
+					{% block content %}
+
+					{% endblock %}
+				</div>
+			</div>
+		</main>
+
+		<footer class = "blog-footer fixed-bottom text-white", style = "background-color: #12CFFE; height: 34px;">
+			<center>
+		 		<p>
+		 			Built for Dormant Account Detection by 
+		 			<a href="https://innodatatics.com/">Innodatatics Inc.</a>
+		 			 © 2021
+		 		</p>
+			</center>
+		</footer>
+		<script src = "{{url_for('static', filename = 'js/bootstrap.min.js')}}"></script>
+	</body>
+</html>
