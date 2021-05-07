@@ -19,3 +19,7 @@ We collected data throuh online surveys. there are total 37 features with 1092 o
 * Our output varable is 'Current_status'
 * Here are some of the plots involving our output variable and other independent variables
 ![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images2/image.png)
+
+* Heatmap
+![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images3/image.png)
+* all the values less than .5 are not related
