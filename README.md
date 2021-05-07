@@ -33,4 +33,5 @@ Age,Gender,Education,Occupation,Account Type,Having Min Balance,Multiple Account
 * We tried different models using a library called 'Lazyclassifier'
 * and we also tried manually
 * Here are the results
-* ![]() 
+* ![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images%204/image.png) 
+* We selected 'Random Forest' as it gave the best F1 score.
