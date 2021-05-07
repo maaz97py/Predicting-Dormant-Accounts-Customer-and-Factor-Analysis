@@ -35,3 +35,7 @@ Age,Gender,Education,Occupation,Account Type,Having Min Balance,Multiple Account
 * Here are the results
 * ![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images%204/image.png) 
 * We selected 'Random Forest' as it gave the best F1 score.
+
+## Deployment 
+* We did our model deployment using Flask API.
+* ![]()
