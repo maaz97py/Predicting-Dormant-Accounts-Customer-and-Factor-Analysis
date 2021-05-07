@@ -24,5 +24,22 @@ risk of fraud and money laundering as the account is left unattended. To put it 
 * Here are some of the visualizations involving our output variable and other independent variables.
 ![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images2/image.png)
 * Heatmap
-![] (https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/raw/main/images3/image.png)
+![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/raw/main/images3/image.png)
 * all the values less than .5 are not related
+
+## Feature Engineering!
+* Dropped selected features based on hypothesis testing.
+* Used Recursive Feature Elimination on categorical variables.
+* and Anova test on Numerical variables
+* Selected features are: Age,Gender,Education,Occupation,Account Type,Having Min Balance,Multiple Accounts,Active Loan,Internet/Mobile Banking,Credit Card,Whether defaulted Loan,Customer Service Satisfaction,Transaction done in 24 month,Opening Balance,Current Balance,Distance from Bank,Quarterly Activity Rate(no of transactions in 3 month),Current Status of your accounts [Active, Dormant, Inactive] - Output Variable .
+
+## Model Building.
+*  We experimentd with different machine learning models.
+*  We tried different models using a library called 'Lazyclassifier'.
+*  Here are the results
+![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/raw/main/images%204/image.png)
+* We selected 'Random Forest' as it gave the best F1 score.
+
+## Deployement.
+*We did our model deployment using Flask API.
+![](https://user-images.githubusercontent.com/69073502/117413310-71a89a80-af33-11eb-8267-eb56f7ab76ba.png)
