@@ -28,3 +28,9 @@ We collected data throuh online surveys. there are total 37 features with 1092 o
 * Dropped Features based on Hypothesis Testing(Recursive Feature Elimination and Anova Test)
 * Selected features are:
 Age,Gender,Education,Occupation,Account Type,Having Min Balance,Multiple Accounts,Active Loan,Internet/Mobile Banking,Credit Card,Whether defaulted Loan,Customer Service Satisfaction,Transaction done in 24 month,Opening Balance,Current Balance,Distance from Bank,Quarterly Activity Rate(no of transactions in 3 month),Current Status of your accounts [Active, Dormant, Inactive] - Output Variable .
+
+## Model Building.
+* We tried different models using a library called 'Lazyclassifier'
+* and we also tried manually
+* Here are the results
+* ![]() 
