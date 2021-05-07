@@ -11,3 +11,6 @@ To put it simply the cost of reviving existing customers is lower than acquiring
 
 ## The machine learning process.
 ![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/main/images/image.png)
+
+## Data Collection.
+We collected data throuh online surveys. there are total 37 features with 1092 observations.
