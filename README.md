@@ -5,3 +5,9 @@ Before finding out the factors influencing dormancy it is important to understan
 When an account has no transactions for 12 months, it is considered inactive. If there is no activity for 24 months, it is deemed dormant. Remember,
 system-generated activities like interest credits don't count. A “transaction” is an activity initiated by the account holder
 
+## why is it important to predict Dormant Customers?
+
+In any banking environment dormant accounts are associated with lot of vulnerabilities such as maintaining such accounts which increases the overall expenses of the bank, 
+risk of fraud and money laundering as the account is left unattended. To put it simply the cost of reviving existing customers is lower than acquiring new one's.
+
+## Machine learning process.
