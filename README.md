@@ -12,3 +12,8 @@ risk of fraud and money laundering as the account is left unattended. To put it 
 
 ## Machine learning process.
 ![](https://github.com/maaz97py/Predicting-Dormant-Accounts-Customer-and-Factor-Analysis/blob/master/images1/image.png)
+
+## Data collection .
+* We collected primary data through online surveys.
+* there are total 37 features in our data.
+* We collected total of 1092 observations.
